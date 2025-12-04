@@ -1,0 +1,3 @@
+[2025-12-03 18:17:37] 🧹 Log limpiado automáticamente al iniciar sincronización
+[2025-12-03 18:17:37] 
+[2025-12-03 18:17:37] 🚀 INICIO DE SINCRONIZACIÓN

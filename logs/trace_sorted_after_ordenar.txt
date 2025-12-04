@@ -1,0 +1,1750 @@
+======================
+📦 DUMP ARRAY ORDENADO
+======================
+### Grupo parent: 215 elementos ###
+   → REF=70605 | PADRE=- | DESC=Recogedor Estiércol con Rastrillo
+   → REF=94001 | PADRE=- | DESC=Bebederos de Cazoleta
+   → REF=94002 | PADRE=- | DESC=Bebederos Cubo
+   → REF=94003 | PADRE=- | DESC=Bebederos de Gran Capacidad
+   → REF=94004 | PADRE=- | DESC=Bebederos de nivel constante
+   → REF=94005 | PADRE=- | DESC=Bebederos  Personalizables
+   → REF=94006 | PADRE=- | DESC=Bebederos de plástico Eco
+   → REF=94007 | PADRE=- | DESC=Comedero para gallinas
+   → REF=94008 | PADRE=- | DESC=Comedero para pollitos
+   → REF=94009 | PADRE=- | DESC=Comederos de exterior
+   → REF=94010 | PADRE=- | DESC=Comederos de Gran Capacidad
+   → REF=94011 | PADRE=- | DESC=Tolvas Personalizables
+   → REF=94012 | PADRE=- | DESC=Tolvas Colgantes Metálicas
+   → REF=94013 | PADRE=- | DESC=Tolvas Colgantes de plástico
+   → REF=94014 | PADRE=- | DESC=Kit ponederos confort
+   → REF=94015 | PADRE=- | DESC=Nidos Confort
+   → REF=94016 | PADRE=- | DESC=Nidos Platinum
+   → REF=94017 | PADRE=- | DESC=Ponederos Confort
+   → REF=94018 | PADRE=- | DESC=Ponederos Platinum
+   → REF=94019 | PADRE=- | DESC=Ponederos Colectavi Central
+   → REF=94020 | PADRE=- | DESC=Ponederos Colectavi
+   → REF=94021 | PADRE=- | DESC=Ponederos de Suelo de Alambre
+   → REF=94022 | PADRE=- | DESC=Batería de ponedoras
+   → REF=94023 | PADRE=- | DESC=Jaula de pollos de engorde
+   → REF=94024 | PADRE=- | DESC=Jaula de exposición
+   → REF=94025 | PADRE=- | DESC=Nacedora de aves redondas
+   → REF=94026 | PADRE=- | DESC=Criadora de pollitos rectangulares
+   → REF=94027 | PADRE=- | DESC=Parque de pollitos
+   → REF=94028 | PADRE=- | DESC=Incubadoras y nacedoras Real
+   → REF=94029 | PADRE=- | DESC=Incubadoras y nacedoras Lumia
+   → REF=94030 | PADRE=- | DESC=Casetas de madera
+   → REF=94031 | PADRE=- | DESC=Bebederos de 1ª y 2ª edad
+   → REF=94032 | PADRE=- | DESC=Gallineros Country
+   → REF=94033 | PADRE=- | DESC=Gallineros móviles Free-Range
+   → REF=94034 | PADRE=- | DESC=Gallineros Red-Roof
+   → REF=94035 | PADRE=- | DESC=Aseladero de suelo para aves
+   → REF=94036 | PADRE=- | DESC=Anillas de plástico para gallinas
+   → REF=94037 | PADRE=- | DESC=Hueveras
+   → REF=94038 | PADRE=- | DESC=Puerta guillotina para gallinero
+   → REF=94039 | PADRE=- | DESC=Aseladero de suelo para pollitos
+   → REF=94040 | PADRE=- | DESC=Corrales Móviles
+   → REF=94041 | PADRE=- | DESC=Desplumadora
+   → REF=94042 | PADRE=- | DESC=Tanque de escaldado
+   → REF=94043 | PADRE=- | DESC=Caseta para patos
+   → REF=94044 | PADRE=- | DESC=Comederos de exterior patos
+   → REF=94045 | PADRE=- | DESC=Comedero Tolva Patos Safe-Feed
+   → REF=94046 | PADRE=- | DESC=Bebederos Cleansy para perros
+   → REF=94047 | PADRE=- | DESC=Bebedero chupete para perros
+   → REF=94048 | PADRE=- | DESC=Bebederos Acuacán
+   → REF=94049 | PADRE=- | DESC=Bebederos con solapa
+   → REF=94050 | PADRE=- | DESC=Comedero/Bebedero de viaje
+   → REF=94051 | PADRE=- | DESC=Bebederos P-3
+   → REF=94052 | PADRE=- | DESC=Bebederos P-5
+   → REF=94053 | PADRE=- | DESC=Bebederos para Pequeños Animales
+   → REF=94054 | PADRE=- | DESC=Bebederos de hormigón
+   → REF=94055 | PADRE=- | DESC=Bebedero de botella para perros
+   → REF=94056 | PADRE=- | DESC=Comederos tolvas Automáticas
+   → REF=94057 | PADRE=- | DESC=Comederos tolva manuales
+   → REF=94058 | PADRE=- | DESC=Platos con soporte
+   → REF=94059 | PADRE=- | DESC=Platos de acero inoxidable
+   → REF=94060 | PADRE=- | DESC=Platos comedero antideslizantes
+   → REF=94062 | PADRE=- | DESC=Placas térmicas poliéster
+   → REF=94063 | PADRE=- | DESC=Placas Slat
+   → REF=94064 | PADRE=- | DESC=Correa para perros
+   → REF=94065 | PADRE=- | DESC=Arneses para perros
+   → REF=94066 | PADRE=- | DESC=Laterales / Frentes de malla
+   → REF=94067 | PADRE=- | DESC=Boxes para cachorros
+   → REF=94068 | PADRE=- | DESC=Jaula de exposición para perros
+   → REF=94069 | PADRE=- | DESC=Box para perros
+   → REF=94070 | PADRE=- | DESC=Casetas para perros y gatos
+   → REF=94071 | PADRE=- | DESC=Aseos para gatos
+   → REF=94072 | PADRE=- | DESC=Puertas
+   → REF=94073 | PADRE=- | DESC=Rejillas Reposa Patas
+   → REF=94075 | PADRE=- | DESC=Botellas de plástico para bebederos
+   → REF=94076 | PADRE=- | DESC=Alargadera para bebedero de conejos
+   → REF=94077 | PADRE=- | DESC=Bebedero chupete para conejos
+   → REF=94078 | PADRE=- | DESC=Bebederos Nivel Constante para conejos
+   → REF=94079 | PADRE=- | DESC=Bebederos Varilla Emujador conejos
+   → REF=94081 | PADRE=- | DESC=Tolva comedero para conejos
+   → REF=94082 | PADRE=- | DESC=Jaula para conejos Penta
+   → REF=94083 | PADRE=- | DESC=Jaulas 1 dpto con patas.
+   → REF=94084 | PADRE=- | DESC=Cubeta para nidos
+   → REF=94085 | PADRE=- | DESC=Nido para conejos
+   → REF=94086 | PADRE=- | DESC=Jaula para pequeños animales
+   → REF=94087 | PADRE=- | DESC=Protectores anti-aves
+   → REF=94088 | PADRE=- | DESC=Bebedero palomas capilla
+   → REF=94089 | PADRE=- | DESC=Comederos para colgar
+   → REF=94090 | PADRE=- | DESC=Comederos de suelo
+   → REF=94091 | PADRE=- | DESC=Jaulas Modelo Europa
+   → REF=94092 | PADRE=- | DESC=Jaulas Pelechero
+   → REF=94094 | PADRE=- | DESC=Nidos palomas
+   → REF=94095 | PADRE=- | DESC=
+   → REF=94096 | PADRE=- | DESC=Batería para codornices
+   → REF=94097 | PADRE=- | DESC=Jaula terrero para perdices
+   → REF=94098 | PADRE=- | DESC=Soportes jaulas de perdices
+   → REF=94099 | PADRE=- | DESC=Pulpitillos Telescópicos
+   → REF=94100 | PADRE=- | DESC=Bebederos Chupete para perdices
+   → REF=94101 | PADRE=- | DESC=Bebederos de campo para perdices
+   → REF=94102 | PADRE=- | DESC=Bocas antidesperdicio
+   → REF=94103 | PADRE=- | DESC=Tolva exterior para aves
+   → REF=94104 | PADRE=- | DESC=Ahuyentadores / Espantapájaros
+   → REF=94105 | PADRE=- | DESC=Exterminador de Insectos
+   → REF=94106 | PADRE=- | DESC=Jaulas captura aves
+   → REF=94107 | PADRE=- | DESC=Jaula de captura
+   → REF=94108 | PADRE=- | DESC=Ratoneras
+   → REF=94109 | PADRE=- | DESC=Ratoneras multicaptura
+   → REF=94110 | PADRE=- | DESC=Bebedero pájaros nivel constante
+   → REF=94111 | PADRE=- | DESC=Comederos para colgar para pájaros
+   → REF=94112 | PADRE=- | DESC=Comederos lineales para pájaros
+   → REF=94113 | PADRE=- | DESC=Comederos tolva
+   → REF=94114 | PADRE=- | DESC=Forros nido de pájaros
+   → REF=94115 | PADRE=- | DESC=Jaulas con bandeja
+   → REF=94116 | PADRE=- | DESC=Jaulas con ruedas
+   → REF=94117 | PADRE=- | DESC=Jaulas desmontables
+   → REF=94118 | PADRE=- | DESC=Jaulas plegables
+   → REF=94119 | PADRE=- | DESC=Perchas para pájaros
+   → REF=94120 | PADRE=- | DESC=Porta-nidos
+   → REF=94121 | PADRE=- | DESC=Bebederos nivel constante para caballos
+   → REF=94122 | PADRE=- | DESC=Comedero para caballos manuales
+   → REF=94123 | PADRE=- | DESC=Palas caballos
+   → REF=94124 | PADRE=- | DESC=Bebederos de metro ovino
+   → REF=94125 | PADRE=- | DESC=Bebederos cerdos
+   → REF=94126 | PADRE=- | DESC=Comedero Corderos
+   → REF=94127 | PADRE=- | DESC=Cubos corderos y terneros
+   → REF=94128 | PADRE=- | DESC=Forrajera de pared para ovejas
+   → REF=94129 | PADRE=- | DESC=Bebedero empujador ovejas
+   → REF=94130 | PADRE=- | DESC=Bebederos de nivel constante para ovino
+   → REF=94131 | PADRE=- | DESC=Pastores electricos 230V
+   → REF=94132 | PADRE=- | DESC=Pastores electricos 12/ 230V
+   → REF=94133 | PADRE=- | DESC=Pastores solares
+   → REF=94134 | PADRE=- | DESC=Cintas, Hilos y Cordones Conductores
+   → REF=94136 | PADRE=- | DESC=Calefactores eléctricos
+   → REF=94137 | PADRE=- | DESC=Rasquetas limpieza
+   → REF=94138 | PADRE=- | DESC=Cubos de limpieza
+   → REF=94139 | PADRE=- | DESC=Cepillos de limpieza
+   → REF=94140 | PADRE=- | DESC=Palas de pienso
+   → REF=94141 | PADRE=- | DESC=Reguladores de presión
+   → REF=94142 | PADRE=- | DESC=Depósitos de agua
+   → REF=94143 | PADRE=- | DESC=Accesorios instalación de Agua
+   → REF=94144 | PADRE=- | DESC=Conectores tuberías
+   → REF=94145 | PADRE=- | DESC=Grapadoras para mallas
+   → REF=94146 | PADRE=- | DESC=Accesorios mesas de cultivo
+   → REF=94147 | PADRE=- | DESC=Racor para válvula
+   → REF=94148 | PADRE=- | DESC=Válvulas Baja presión
+   → REF=94149 | PADRE=- | DESC=Válvulas Alta Presión
+   → REF=94150 | PADRE=- | DESC=Accesorios de riego
+   → REF=94151 | PADRE=- | DESC=Sandwich para nido
+   → REF=94152 | PADRE=- | DESC=Comederos de acero inoxidable
+   → REF=94153 | PADRE=- | DESC=Válvulas Bebederos Logis
+   → REF=94154 | PADRE=- | DESC=Bandeja colectora Penta
+   → REF=94155 | PADRE=- | DESC=Cestas de Conejos
+   → REF=94156 | PADRE=- | DESC=Bocas de plástico
+   → REF=94157 | PADRE=- | DESC=Comedero para batería de ponedoras
+   → REF=94158 | PADRE=- | DESC=Anillo anti-desperdicio para tolva
+   → REF=94159 | PADRE=- | DESC=Bebederos para aves
+   → REF=94160 | PADRE=- | DESC=Aseladero para ponederos
+   → REF=94161 | PADRE=- | DESC=Transportín de madera para gallos
+   → REF=94162 | PADRE=- | DESC=Soportes de sal
+   → REF=94163 | PADRE=- | DESC=Comedero automático para caballos Equim
+   → REF=94164 | PADRE=- | DESC=Forrajera para caballos
+   → REF=94165 | PADRE=- | DESC=Bebedero Empujador Caballos
+   → REF=94166 | PADRE=- | DESC=Porta-Montura Plegable
+   → REF=94167 | PADRE=- | DESC=Bebederos automático para perdices
+   → REF=94168 | PADRE=- | DESC=Redes Sacaderas
+   → REF=94169 | PADRE=- | DESC=Jaula Perdices
+   → REF=94170 | PADRE=- | DESC=Jaula Perdices De Reclamo
+   → REF=94171 | PADRE=- | DESC=Jaula de cría para perdices
+   → REF=94173 | PADRE=- | DESC=Portacebos
+   → REF=94172 | PADRE=- | DESC=Ratoneras Captura
+   → REF=94174 | PADRE=- | DESC=Bebederos para conejos enanos
+   → REF=94175 | PADRE=- | DESC=Tolva Starter Lechones
+   → REF=94176 | PADRE=- | DESC=Tolvas Cebo
+   → REF=94177 | PADRE=- | DESC=Forrajeras para ovejas con patas
+   → REF=94178 | PADRE=- | DESC=Tapa para forrajera de ovejas
+   → REF=94179 | PADRE=- | DESC=Paridera Ovejas
+   → REF=94180 | PADRE=- | DESC=Vallas teleras
+   → REF=94181 | PADRE=- | DESC=Nido Madera
+   → REF=94182 | PADRE=- | DESC=Pajarera
+   → REF=94183 | PADRE=- | DESC=Pajarera Mod. Moncayo
+   → REF=94184 | PADRE=- | DESC=Jaula Pájaros
+   → REF=94185 | PADRE=- | DESC=Soporte con ruedas para jaulas de canari
+   → REF=94186 | PADRE=- | DESC=Rejilla de suelo para jaula de pájaros
+   → REF=94187 | PADRE=- | DESC=Bañeras  Pájaros
+   → REF=94188 | PADRE=- | DESC=Bebederos de tubo
+   → REF=98189 | PADRE=- | DESC=Bebederos automáticos
+   → REF=94190 | PADRE=- | DESC=Comedero giratorio para loros
+   → REF=94191 | PADRE=- | DESC=Bizcochera
+   → REF=94192 | PADRE=- | DESC=Bebedero/Comederos para Palomas
+   → REF=94193 | PADRE=- | DESC=Comedero/Bebedero Palomas
+   → REF=94194 | PADRE=- | DESC=Anillas de plástico para palomas
+   → REF=94195 | PADRE=- | DESC=Puerta trampa para palomas
+   → REF=94196 | PADRE=- | DESC=Juego Patas Jaula Exposición Palomas
+   → REF=94197 | PADRE=- | DESC=Batería recargable
+   → REF=94198 | PADRE=- | DESC=Pilar Alcalina
+   → REF=94199 | PADRE=- | DESC=Mallas eléctricas
+   → REF=94200 | PADRE=- | DESC=Postes
+   → REF=94201 | PADRE=- | DESC=Automatismo Dosidog
+   → REF=94202 | PADRE=- | DESC=Paridera para perros
+   → REF=94203 | PADRE=- | DESC=Camas de plástico para perros
+   → REF=90204 | PADRE=- | DESC=Colchoneta para cama de perro
+   → REF=94205 | PADRE=- | DESC=Soporte para bebedero de perros en fenó
+   → REF=94206 | PADRE=- | DESC=Transportines
+   → REF=94207 | PADRE=- | DESC=Transportines para perros y gatos
+   → REF=94208 | PADRE=- | DESC=Tubería flexible de goma
+   → REF=94209 | PADRE=- | DESC=Fitros de Agua
+   → REF=94210 | PADRE=- | DESC=Racor Salida Depósito
+   → REF=94211 | PADRE=- | DESC=Llaves de paso
+   → REF=94212 | PADRE=- | DESC=Flotadores
+   → REF=94213 | PADRE=- | DESC=Calefactor Infraconic
+   → REF=94214 | PADRE=- | DESC=Mesa de cultivo
+   → REF=94215 | PADRE=- | DESC=Metro Ángulo Estantería
+   → REF=94216 | PADRE=- | DESC=Columna Estanterí
+   → REF=94217 | PADRE=- | DESC=Malla alambre galvanizada
+   → REF=94218 | PADRE=- | DESC=Rollo de malla de plástico
+   → REF=94219 | PADRE=- | DESC=Kits de Riego
+### Grupo variantes: 1343 elementos ###
+   → REF=10107 | PADRE=- | DESC=Rejilla Reposa Patas de Plástico para c
+   → REF=10109 | PADRE=- | DESC=Cubeta Nido Milán con sandwich
+   → REF=10110 | PADRE=- | DESC=Nido exterior con tapa para conejos mode
+   → REF=10114 | PADRE=- | DESC=Sandwich para Nido Penta de conejos
+   → REF=10121 | PADRE=- | DESC=Válvula bebedero Racor 70 mm.
+   → REF=10137 | PADRE=- | DESC=Nido con tapa para conejos modelo Brusel
+   → REF=10138 | PADRE=- | DESC=Cubeta para Nido de conejos Bruselas
+   → REF=10140 | PADRE=- | DESC=Cubeta para nido de conejos Penta sin re
+   → REF=10141 | PADRE=- | DESC=Comedero de Acero Inoxidable con Soporte
+   → REF=10142 | PADRE=- | DESC=Comedero de Acero Inoxidable con Soporte
+   → REF=10143 | PADRE=- | DESC=Comedero de Acero Inoxidable con Soporte
+   → REF=10147 | PADRE=- | DESC=Tubo de goma transparente 5x9 mm. - 25 m
+   → REF=10149 | PADRE=- | DESC=Tubo de goma transparente 8x14 mm. - 25 
+   → REF=10150 | PADRE=- | DESC=Comedero acero inoxidable con gancho - 0
+   → REF=10151 | PADRE=- | DESC=Comedero acero inoxidable con gancho - 0
+   → REF=10152 | PADRE=- | DESC=Comedero acero inoxidable con gancho - 0
+   → REF=10242 | PADRE=- | DESC=Tolva Comedero para conejos con tapa - 3
+   → REF=10243 | PADRE=- | DESC=Tolva Comedero para conejos con tapa - 4
+   → REF=10247 | PADRE=- | DESC=Bebedero Mixto para conejos con boya
+   → REF=10248 | PADRE=- | DESC=Bebedero Mixto para conejos con botella 
+   → REF=10253 | PADRE=- | DESC=Tolva Comedero para conejos - 1 departam
+   → REF=10255 | PADRE=- | DESC=Tolva Comedero para conejos - 4 departam
+   → REF=10257 | PADRE=- | DESC=Tolva Comedero para conejos con tapa - 1
+   → REF=10258 | PADRE=- | DESC=Tolva Comedero para conejos con tapa - 2
+   → REF=10264 | PADRE=- | DESC=Derivación en "T"
+   → REF=10265 | PADRE=- | DESC=Empalme de tubería de goma flexible
+   → REF=10266 | PADRE=- | DESC=Rastrillo de limpieza para conejos
+   → REF=10267 | PADRE=- | DESC=Alargadera recta para bebedero de conejo
+   → REF=10268 | PADRE=- | DESC=Alargadera lisa para bebedero de conejos
+   → REF=10274 | PADRE=- | DESC=Reducción tubo de 10 a 7 mm.
+   → REF=10279 | PADRE=- | DESC=Alargadera recta para bebedero de chupet
+   → REF=10280 | PADRE=- | DESC=Derivación en "T" reductora 10/7
+   → REF=10281 | PADRE=- | DESC=Tubería flexible de goma gris 8x14 - Ro
+   → REF=10282 | PADRE=- | DESC=Tubería flexible de goma gris 8x14 - Ro
+   → REF=10283 | PADRE=- | DESC=Tubería flexible de goma
+   → REF=10285 | PADRE=- | DESC=Empalme para tubo rígido PVC
+   → REF=10288 | PADRE=- | DESC=Tolva Comedero para conejos - 3 departam
+   → REF=10295 | PADRE=- | DESC=Botella de plástico para bebedero Mixto
+   → REF=10297 | PADRE=- | DESC=Válvula Chupete para conejos
+   → REF=10298 | PADRE=- | DESC=Bebedero Chupete para conejos Mod. W-200
+   → REF=10299 | PADRE=- | DESC=Alargadera acodada para bebedero de chup
+   → REF=10308 | PADRE=- | DESC=Pala para pienso de aluminio
+   → REF=10309 | PADRE=- | DESC=Bebedero Chupete de acero inoxidable con
+   → REF=10310 | PADRE=- | DESC=Tolva Comedero Especial para conejos - 2
+   → REF=10312 | PADRE=- | DESC=Bebedero Chupete Reforzado de acero inox
+   → REF=10315 | PADRE=- | DESC=Pala galvanizada para pienso
+   → REF=10321 | PADRE=- | DESC=Bebedero Mixto para conejos sin botella
+   → REF=10322 | PADRE=- | DESC=Tubo Rigido PVC 22x22 metro lineal
+   → REF=10327 | PADRE=- | DESC=Bebedero Chupete para conejos con botell
+   → REF=10328 | PADRE=- | DESC=Bebedero Chupete para conejos con Botell
+   → REF=10334 | PADRE=- | DESC=Tolva Comedero para conejos - 10 Huecos
+   → REF=10345 | PADRE=- | DESC=Tolva Comedero para conejos con tapa - 1
+   → REF=10370 | PADRE=- | DESC=Bebedero Logis con válvula recta
+   → REF=10371 | PADRE=- | DESC=Bebedero Logis para tubo rígido
+   → REF=10372 | PADRE=- | DESC=Bebedero Logis con válvula acodada
+   → REF=10373 | PADRE=- | DESC=Codo de Plástico
+   → REF=10378 | PADRE=- | DESC=Bebedero Mini con boya
+   → REF=10379 | PADRE=- | DESC=Bebedero Mini con botella 0,5 l.
+   → REF=10380 | PADRE=- | DESC=Bebedero Mini con botella de 2 l.
+   → REF=10381 | PADRE=- | DESC=Bebedero Mini sin botella
+   → REF=10386 | PADRE=- | DESC=Botella de plástico para bebedero Mini 
+   → REF=10387 | PADRE=- | DESC=Botella de plástico para bebedero Mini 
+   → REF=10440 | PADRE=- | DESC=Abrazadera Sinfín
+   → REF=10441 | PADRE=- | DESC=Racor principio ABS negro
+   → REF=10442 | PADRE=- | DESC=Racor ampliación ABS negro
+   → REF=10464 | PADRE=- | DESC=Válvula recta para Bebedero Logis
+   → REF=10465 | PADRE=- | DESC=Junta Bebedero Logis a Tubo Rigido
+   → REF=10469 | PADRE=- | DESC=Filtro de Agua con llave
+   → REF=10470 | PADRE=- | DESC=Depósito Regulador de Agua 32 l.
+   → REF=10472 | PADRE=- | DESC=Racor Salida Depósito
+   → REF=10474 | PADRE=- | DESC=Válvula acodada para Bebedero Logis
+   → REF=10475 | PADRE=- | DESC=Deposito Regulador de Agua 55 l.
+   → REF=10483 | PADRE=- | DESC=Sandwich para fondo de Nido Milán
+   → REF=10782 | PADRE=- | DESC=Bandeja Colectora Penta - 2 departamento
+   → REF=10950 | PADRE=- | DESC=Jaula para conejos Penta 2 Plástico
+   → REF=10952 | PADRE=- | DESC=Jaula para conejos Penta 2 Metal
+   → REF=10954 | PADRE=- | DESC=Jaula para conejos Penta 4 Plástico
+   → REF=10956 | PADRE=- | DESC=Jaula para conejos Penta 4 Metal
+   → REF=10957 | PADRE=- | DESC=Nido Penta para conejos
+   → REF=10960 | PADRE=- | DESC=Nido-Cuni
+   → REF=10961 | PADRE=- | DESC=Jaula para conejos Penta 4 Plástico - 2
+   → REF=10962 | PADRE=- | DESC=Jaula para conejos Penta 4 Metal - 2 dep
+   → REF=10963 | PADRE=- | DESC=Jaula para conejos Penta 3 Plástico
+   → REF=10964 | PADRE=- | DESC=Jaula para conejos Penta 3 Metal
+   → REF=10965 | PADRE=- | DESC=Jaula para conejos Penta 3 Plástico - 2
+   → REF=10966 | PADRE=- | DESC=Jaula para conejos Penta 3 Metal - 2 dep
+   → REF=10967 | PADRE=- | DESC=Bandeja Colectora para Penta - 3 departa
+   → REF=11174 | PADRE=- | DESC=Cesta Bruselas con tolvilla
+   → REF=11315 | PADRE=- | DESC=Tolva Comedero Especial Machos
+   → REF=11350 | PADRE=- | DESC=Cesta Marsella con tolvilla
+   → REF=11351 | PADRE=- | DESC=Cesta Milán con tolvilla
+   → REF=11482 | PADRE=- | DESC=Jaula Milán con patas y nido
+   → REF=11483 | PADRE=- | DESC=Jaula Marsella con patas y nido
+   → REF=11484 | PADRE=- | DESC=Jaula Milán con patas y sin nido
+   → REF=11485 | PADRE=- | DESC=Jaula Marsella con patas y sin nido
+   → REF=11653 | PADRE=- | DESC=Cubeta grande C-12 con sandwich
+   → REF=11737 | PADRE=- | DESC=Cubeta Bruselas baja
+   → REF=30003 | PADRE=- | DESC=Cruz de plástico - 10/10 mm.
+   → REF=30004 | PADRE=- | DESC=Derivación en T - 7/7 mm.
+   → REF=30007 | PADRE=- | DESC=Boca plast (a granel) Comed aves ant-des
+   → REF=30008 | PADRE=- | DESC=Ponedero Colectavi Central Principio C/E
+   → REF=30009 | PADRE=- | DESC=Ponedero Colectavi Central Ampliación C
+   → REF=30012 | PADRE=- | DESC=Bebedero aves 35L C/ Patas (En caja 4 un
+   → REF=30013 | PADRE=- | DESC=Bebedero Aves 45L C/Patas (En caja 4 uni
+   → REF=30014 | PADRE=- | DESC=Comedero Aves 35L C/Patas (En caja 4 uni
+   → REF=30015 | PADRE=- | DESC=Comedero Aves 45L C/Patas (En caja 4 Uni
+   → REF=30016 | PADRE=- | DESC=Bebedero Aves 35L C/Patas (A granel)
+   → REF=30017 | PADRE=- | DESC=Bebedero Aves 45L C/Patas (A granel)
+   → REF=30018 | PADRE=- | DESC=Comedero Aves 35L C/Patas (A granel)
+   → REF=30019 | PADRE=- | DESC=Comedero Aves 45L C/Patas (A granel)
+   → REF=30020 | PADRE=- | DESC=Bebedero + Comedero Aves 35L C/Patas (Pa
+   → REF=30021 | PADRE=- | DESC=Bebedero + Comedero Aves 45L C/Patas (Pa
+   → REF=30022 | PADRE=- | DESC=Bebedero pollos 8L Royal Rojo
+   → REF=30023 | PADRE=- | DESC=Bebedero pollos 8L Royal Azul
+   → REF=30024 | PADRE=- | DESC=Bebedero pollos 12L Royal Rojo
+   → REF=30025 | PADRE=- | DESC=Bebedero pollos 12L Royal Azul
+   → REF=30026 | PADRE=- | DESC=Bebedero pollos 2ª edad 8L Royal Rojo
+   → REF=30027 | PADRE=- | DESC=Bebedero pollos 2ª edad 8L Royal Azul
+   → REF=30028 | PADRE=- | DESC=Bebedero pollos 2ª edad 12L Royal Rojo
+   → REF=30029 | PADRE=- | DESC=Bebedero pollos 2ª edad 12L Royal Azul
+   → REF=30030 | PADRE=- | DESC=Bebedero aves 35L C/Patas (En caja 1 uni
+   → REF=30031 | PADRE=- | DESC=Bebedero Aves 45L C/Patas (En caja 1 uni
+   → REF=30032 | PADRE=- | DESC=Comedero Aves 35L C/Patas (En caja 1 uni
+   → REF=30033 | PADRE=- | DESC=Comedero Aves 45L C/Patas (En caja 1 Uni
+   → REF=30034 | PADRE=- | DESC=Comedero / Tolva Patos Safe-Feed 6kg - 1
+   → REF=30035 | PADRE=- | DESC=Comedero / Tolva Patos Safe-Feed 12kg - 
+   → REF=30036 | PADRE=- | DESC=Comedero / Tolva Patos Safe-Feed 20kg - 
+   → REF=30037 | PADRE=- | DESC=Comedero / Tolva Patos Safe-Feed 30kg - 
+   → REF=30038 | PADRE=- | DESC=Comedero / Tolva Patos Safe-Feed 40kg - 
+   → REF=30039 | PADRE=- | DESC=Comedero / Tolva Patos Safe-Feed 50kg - 
+   → REF=30040 | PADRE=- | DESC=Gallinero movil 1.5x1.8MT Country
+   → REF=30041 | PADRE=- | DESC=Gallinero Fijo 1.5x1.8MT Country
+   → REF=30043 | PADRE=- | DESC=Comedero Tolva Patos Safe-Feed 6kg - 10L
+   → REF=30046 | PADRE=- | DESC=Caseta Patos C/Nido 64x44xh44CM Fenolico
+   → REF=30047 | PADRE=- | DESC=Caseta Patos C/Nido 69x69xh44CM Fenolico
+   → REF=30049 | PADRE=- | DESC=Tolva Galvanizada 500kg Patos
+   → REF=30050 | PADRE=- | DESC=Tolva Galvanizada 100kg Patos
+   → REF=30051 | PADRE=- | DESC=Tolva exterior 50kg Patos
+   → REF=30052 | PADRE=- | DESC=Alfombrilla trebol para nido
+   → REF=30053 | PADRE=- | DESC=Corona Diametro 60mm
+   → REF=30054 | PADRE=- | DESC=Boca plastico comedero perdices anti-des
+   → REF=30057 | PADRE=- | DESC=Boca de plástico comedero anti-desperdi
+   → REF=30058 | PADRE=- | DESC=Depósito 55 l. con 2 bocas comedero ant
+   → REF=30062 | PADRE=- | DESC=Comedero Tolva Exterior Aves Camuflaje 1
+   → REF=30063 | PADRE=- | DESC=Comedero Tolva Exterior Aves Camuflaje 2
+   → REF=30064 | PADRE=- | DESC=Comedero Tolva Exterior Aves Camuflaje 4
+   → REF=30065 | PADRE=- | DESC=Comedero Tolva Exterior Aves Camuflaje 8
+   → REF=30066 | PADRE=- | DESC=Comedero Tolva Aves Safeed 6Kg -  10L Ca
+   → REF=30067 | PADRE=- | DESC=Comedero Tolva Aves Safeed 12Kg -  20L C
+   → REF=30068 | PADRE=- | DESC=Comedero Tolva Aves Safeed 20Kg -  33.5L
+   → REF=30069 | PADRE=- | DESC=Comedero Tolva Aves Safeed 30Kg -  50L C
+   → REF=30070 | PADRE=- | DESC=Comedero Tolva Aves Safeed 40Kg -  67L C
+   → REF=30071 | PADRE=- | DESC=Comedero Tolva Aves Safeed 50Kg -  83.5L
+   → REF=30072 | PADRE=- | DESC=Comedero Tolva Patos Safe-Feed 20kg - 33
+   → REF=30073 | PADRE=- | DESC=Comedero Tolva Patos Safe-Feed 30kg - 50
+   → REF=30074 | PADRE=- | DESC=Comedero Tolva Patos Safe-Feed 40kg - 67
+   → REF=30075 | PADRE=- | DESC=Comedero Tolva Patos Safe-Feed 50kg - 83
+   → REF=30078 | PADRE=- | DESC=Pack Comedero + Bebedero Pollitos 1ª Ed
+   → REF=30079 | PADRE=- | DESC=Gallinero Movil 1x1.2M S/Kit Camuflaje F
+   → REF=30080 | PADRE=- | DESC=Gallinero Movil 1x1.2M C/Kit Camuflaje F
+   → REF=30081 | PADRE=- | DESC=Gallinero Movil 1.5x1.8M S/Kit Camuflaje
+   → REF=30082 | PADRE=- | DESC=Gallinero Movil 1.5x1.8M C/Kit Camuflaje
+   → REF=30083 | PADRE=- | DESC=Kit inciación ponedoras Free-Range Reci
+   → REF=30084 | PADRE=- | DESC=Comedero Metal Aves C/6 Bocas Antidesper
+   → REF=30095 | PADRE=- | DESC=Comedero Tolva Exterior Aves 80L C/Viser
+   → REF=30096 | PADRE=- | DESC=Depósito regulador rectangular 7L C/Fil
+   → REF=30097 | PADRE=- | DESC=Bebedero Eco de plástico reciclado con 
+   → REF=30098 | PADRE=- | DESC=Bebedero Eco de plástico reciclado con 
+   → REF=30112 | PADRE=- | DESC=Corral Móvil continental 30 m2
+   → REF=30116 | PADRE=- | DESC=Corral Móvil continental 60 m2
+   → REF=30118 | PADRE=- | DESC=Corral Móvil continental 90 m2
+   → REF=30125 | PADRE=- | DESC=Bebederos para aves de acero Inoxidable 
+   → REF=30126 | PADRE=- | DESC=Bebederos para aves de acero Inoxidable 
+   → REF=30127 | PADRE=- | DESC=Bebederos para aves de acero Inoxidable 
+   → REF=30128 | PADRE=- | DESC=Bebederos para aves de acero Inoxidable 
+   → REF=30130 | PADRE=- | DESC=Tolva metálica con patas para aves - 5 
+   → REF=30131 | PADRE=- | DESC=Tolva metálica con patas para aves - 10
+   → REF=30132 | PADRE=- | DESC=Tolva metálica con patas para aves - 20
+   → REF=30143 | PADRE=- | DESC=Incubadora Real 49 Plus
+   → REF=30144 | PADRE=- | DESC=Pack incubadora Real 49 Plus con humudif
+   → REF=30145 | PADRE=- | DESC=Pack incubadora Real 49 con humudificado
+   → REF=30146 | PADRE=- | DESC=Pack incubadora Lumia 8 con humudificado
+   → REF=30153 | PADRE=- | DESC=SAS 2.40x1.20xh2.10M Sandwich 40 -
+   → REF=30155 | PADRE=- | DESC=Comedero exterior con visera - 6kg./ 10 
+   → REF=30156 | PADRE=- | DESC=Comedero exterior con visera - 12kg./ 20
+   → REF=30157 | PADRE=- | DESC=Comedero exterior con visera - 24kg./ 40
+   → REF=30161 | PADRE=- | DESC=Aseladero de suelo para aves - 31,38 ml.
+   → REF=30162 | PADRE=- | DESC=Corral Móvil Continental 11 m2
+   → REF=30164 | PADRE=- | DESC=Aseladero de suelo para aves - 11,7 ml.
+   → REF=30165 | PADRE=- | DESC=Bebedero Silo Free-Range 35 l. -1 ud.
+   → REF=30166 | PADRE=- | DESC=Comedero Silo Free-Range 35 l. -1 ud._x0
+   → REF=30167 | PADRE=- | DESC=Bebedero Silo Free-Range 45 l. -1 ud.
+   → REF=30168 | PADRE=- | DESC=Comedero Silo Free-Range 45 l. - 1 ud._x
+   → REF=30169 | PADRE=- | DESC=Bebedero Silo Free-Range 35 l. - 4 uds.
+   → REF=30170 | PADRE=- | DESC=Comedero Silo Free-Range 35 l. - 4 uds._
+   → REF=30171 | PADRE=- | DESC=Bebedero Silo Free-Range 45 l. - 4 uds.
+   → REF=30172 | PADRE=- | DESC=Comedero Silo Free-Range 45 l. - 4 Uds._
+   → REF=30173 | PADRE=- | DESC=Bebedero + Comedero Silo Free-Range 35 l
+   → REF=30174 | PADRE=- | DESC=Bebedero + Comedero Silo Free-Range 45 l
+   → REF=30175 | PADRE=- | DESC=Bebedero Silo Free-Range 35 l. - 70 uds.
+   → REF=30176 | PADRE=- | DESC=Comedero Silo Free-Range 35 l. - 70 uds.
+   → REF=30177 | PADRE=- | DESC=Bebedero Silo Free-Range 45 l. - 65 uds.
+   → REF=30178 | PADRE=- | DESC=Comedero Silo Free-Range 45 l. - 65 Uds.
+   → REF=30183 | PADRE=- | DESC=Bebedero de plástico modelo Chips - 5 l
+   → REF=30184 | PADRE=- | DESC=Bebedero de plástico modelo Chips - 5 l
+   → REF=30185 | PADRE=- | DESC=Bebedero de plástico reciclado modelo C
+   → REF=30186 | PADRE=- | DESC=Bebedero de plástico con patas modelo C
+   → REF=30187 | PADRE=- | DESC=Bebedero de plástico con patas modelo C
+   → REF=30188 | PADRE=- | DESC=Bebedero de plástico reciclado con pata
+   → REF=30189 | PADRE=- | DESC=Comedero de plástico modelo Free-Range 
+   → REF=30190 | PADRE=- | DESC=Comedero de plástico modelo Free-Range 
+   → REF=30191 | PADRE=- | DESC=Comedero de plástico reciclado modelo F
+   → REF=30192 | PADRE=- | DESC=Comedero de plástico con patas modelo F
+   → REF=30193 | PADRE=- | DESC=Comedero de plástico con patas modelo F
+   → REF=30194 | PADRE=- | DESC=Comedero de plástico reciclado con pata
+   → REF=30195 | PADRE=- | DESC=Bebedero de plástico modelo Free-Range 
+   → REF=30196 | PADRE=- | DESC=Bebedero de plástico modelo Free-Range 
+   → REF=30197 | PADRE=- | DESC=Bebedero de plástico reciclado modelo F
+   → REF=30198 | PADRE=- | DESC=Bebedero de plástico con patas modelo F
+   → REF=30199 | PADRE=- | DESC=Bebedero de plástico con patas modelo F
+   → REF=30200 | PADRE=- | DESC=Bebedero de plástico reciclado con pata
+   → REF=30205 | PADRE=- | DESC=Comedero para jaula de pollos - 1 depart
+   → REF=30206 | PADRE=- | DESC=Flotador cilíndrico Ø 60
+   → REF=30207 | PADRE=- | DESC=Flotador cilíndrico Ø 40
+   → REF=30208 | PADRE=- | DESC=Flotador plano Ø 50
+   → REF=30209 | PADRE=- | DESC=Racor 10 mm. para válvula de baja presi
+   → REF=30210 | PADRE=- | DESC=Racor 70 mm. para válvula de baja presi
+   → REF=30211 | PADRE=- | DESC=Racor 3/8 para válvula de baja presión
+   → REF=30212 | PADRE=- | DESC=Tolva de plástico - 2 kg./ 3,5 l. azul
+   → REF=30213 | PADRE=- | DESC=Tolva de plástico - 4 kg./ 7 l. azul
+   → REF=30214 | PADRE=- | DESC=Tolva de plástico - 8 kg./ 12 l. azul
+   → REF=30216 | PADRE=- | DESC=Tolva de plástico - 12 kg./ 20 l. azul
+   → REF=30217 | PADRE=- | DESC=Tolva de plástico - 16 kg./ 27 l. azul
+   → REF=30218 | PADRE=- | DESC=Bebedero Eco de plástico - 1,5 l. azul
+   → REF=30219 | PADRE=- | DESC=Bebedero Eco de plástico - 3 l. azul
+   → REF=30220 | PADRE=- | DESC=Bebedero Eco de plástico - 5 l. azul
+   → REF=30221 | PADRE=- | DESC=Bebedero Eco de plástico - 8 l. azul
+   → REF=30222 | PADRE=- | DESC=Bebedero Eco de plástico - 10 l. azul
+   → REF=30223 | PADRE=- | DESC=Bebedero 1ª Edad - 2 l. azul
+   → REF=30224 | PADRE=- | DESC=Bebedero 1ª edad - 5 l. azul
+   → REF=30225 | PADRE=- | DESC=Bebedero 1ª edad - 8 l. azul
+   → REF=30226 | PADRE=- | DESC=Bebedero 1ª edad - 12 l. azul
+   → REF=30227 | PADRE=- | DESC=Bebedero 2ª edad - 5 l. azul
+   → REF=30228 | PADRE=- | DESC=Bebedero 2ª edad - 8 l. azul
+   → REF=30229 | PADRE=- | DESC=Bebedero 2ª edad - 12 l. azul
+   → REF=30230 | PADRE=- | DESC=Bebedero cubo metálico - 7 l.
+   → REF=30232 | PADRE=- | DESC=Comedero de plástico 1ª edad - 0,6 kg.
+   → REF=30233 | PADRE=- | DESC=Bebedero de plástico 1ª edad - 1 l.
+   → REF=30234 | PADRE=- | DESC=Bebedero colgante campana
+   → REF=30235 | PADRE=- | DESC=Incubadora Lumia 8
+   → REF=30240 | PADRE=- | DESC=Anillas de plástico para gallinas 16 mm
+   → REF=30241 | PADRE=- | DESC=Anillas de plástico para gallinas 16 mm
+   → REF=30242 | PADRE=- | DESC=Anillas de plástico para gallinas 16 mm
+   → REF=30243 | PADRE=- | DESC=Bebedero 1ª Edad con patas - 2 l. rojo
+   → REF=30244 | PADRE=- | DESC=Bebedero 1ª Edad con patas - 2 l. azul
+   → REF=30251 | PADRE=- | DESC=Bebedero Eco de plástico con tapón - 8
+   → REF=30252 | PADRE=- | DESC=Bebedero Eco de plástico con tapón - 8
+   → REF=30253 | PADRE=- | DESC=Bebedero Eco de plástico con tapón - 1
+   → REF=30254 | PADRE=- | DESC=Bebedero Eco de plástico con tapón - 1
+   → REF=30255 | PADRE=- | DESC=Comederos metálicos modelo Mini - 30 cm
+   → REF=30256 | PADRE=- | DESC=Comederos metálicos modelo Mini - 50 cm
+   → REF=30257 | PADRE=- | DESC=Tolva Eco - 9 l.
+   → REF=30258 | PADRE=- | DESC=Tolva Eco - 14 l.
+   → REF=30260 | PADRE=- | DESC=Tolva Eco con patas - 9 l.
+   → REF=30261 | PADRE=- | DESC=Tolva Eco con patas - 14 l.
+   → REF=30266 | PADRE=- | DESC=Tolva Free-Range - 14 l.
+   → REF=30271 | PADRE=- | DESC=Bebedero con patas 20 l.
+   → REF=30272 | PADRE=- | DESC=Bebedero con patas 30 l.
+   → REF=30273 | PADRE=- | DESC=Bebedero con patas 40 l.
+   → REF=30274 | PADRE=- | DESC=Comedero con patas 20 l.
+   → REF=30275 | PADRE=- | DESC=Comedero con patas 30 l.
+   → REF=30276 | PADRE=- | DESC=Comedero con patas 40 l.
+   → REF=30277 | PADRE=- | DESC=Comedero de plástico con huecos - 20 cm
+   → REF=30278 | PADRE=- | DESC=Comedero de plástico con huecos - 20 cm
+   → REF=30279 | PADRE=- | DESC=Comedero de plástico con huecos - 30 cm
+   → REF=30280 | PADRE=- | DESC=Comedero de plástico con huecos - 30 cm
+   → REF=30281 | PADRE=- | DESC=Comedero de plástico con huecos - 40 cm
+   → REF=30282 | PADRE=- | DESC=Comedero de plástico con huecos - 40 cm
+   → REF=30283 | PADRE=- | DESC=Bebedero Eco de plástico con patas - 5 
+   → REF=30284 | PADRE=- | DESC=Bebedero Eco de plástico con patas - 5 
+   → REF=30285 | PADRE=- | DESC=Bebedero Eco de plástico con patas - 8 
+   → REF=30286 | PADRE=- | DESC=Bebedero Eco de plástico con patas - 8 
+   → REF=30287 | PADRE=- | DESC=Bebedero Eco de plástico con patas - 10
+   → REF=30288 | PADRE=- | DESC=Bebedero Eco de plástico con patas - 10
+   → REF=30289 | PADRE=- | DESC=Tolva de plástico con patas - 8 kg./ 12
+   → REF=30290 | PADRE=- | DESC=Tolva de plástico con patas - 8 kg./ 12
+   → REF=30291 | PADRE=- | DESC=Tolva de plástico con patas - 4 kg./ 7 
+   → REF=30292 | PADRE=- | DESC=Tolva de plástico con patas- 4 kg./ 7 l
+   → REF=30296 | PADRE=- | DESC=Anillas de plástico para gallinas 16 mm
+   → REF=30300 | PADRE=- | DESC=Bebedero 1ª edad - 8 l. rojo
+   → REF=30301 | PADRE=- | DESC=Bebedero 1ª edad - 5 l. rojo
+   → REF=30302 | PADRE=- | DESC=Tolva metálica para aves - 10 kg./ 14 l
+   → REF=30306 | PADRE=- | DESC=Comederos metálicos con rejilla ancha -
+   → REF=30307 | PADRE=- | DESC=Comederos metálicos con rejilla estrech
+   → REF=30308 | PADRE=- | DESC=Comederos metálicos con rejilla ancha -
+   → REF=30309 | PADRE=- | DESC=Comederos metálicos con rejilla estrech
+   → REF=30312 | PADRE=- | DESC=Bebedero de chapa automático - 2 m.
+   → REF=30313 | PADRE=- | DESC=Bebedero de chapa automático - 1 m.
+   → REF=30314 | PADRE=- | DESC=Tolva metálica para aves - 20 kg./ 33,5
+   → REF=30316 | PADRE=- | DESC=Calefactor Infraconic-1 con Termostato
+   → REF=30319 | PADRE=- | DESC=Ponedero con suelo de alambre - 3 depart
+   → REF=30321 | PADRE=- | DESC=Bebedero modelo pulpo para 1ª edad
+   → REF=30327 | PADRE=- | DESC=Plato de comida para 1ª edad
+   → REF=30335 | PADRE=- | DESC=Bebedero 1ª Edad - 2 l. rojo
+   → REF=30336 | PADRE=- | DESC=Jaula de pollos de engorde - 3 departame
+   → REF=30342 | PADRE=- | DESC=Bebedero de cazoleta Copavi
+   → REF=30354 | PADRE=- | DESC=Millar De Grapas Vr-18
+   → REF=30356 | PADRE=- | DESC=Pegamento Especial para PVC
+   → REF=30358 | PADRE=- | DESC=Válvula para bebedero Canal PVC Semi-Re
+   → REF=30359 | PADRE=- | DESC=Válvula Bebedero Rosca 3/8
+   → REF=30363 | PADRE=- | DESC=Tapón Goma Desagüe Bebedero
+   → REF=30379 | PADRE=- | DESC=Comedero para batería de ponedoras - 12
+   → REF=30385 | PADRE=- | DESC=Comedero para batería de ponedoras - 15
+   → REF=30392 | PADRE=- | DESC=Comedero para batería de ponedoras - 9 
+   → REF=30429 | PADRE=- | DESC=Bebedero 1ª edad - 12 l. rojo
+   → REF=30433 | PADRE=- | DESC=Comedero Pequeño para jaula de pollos
+   → REF=30450 | PADRE=- | DESC=Comedero con molinete - 1 m.
+   → REF=30451 | PADRE=- | DESC=Comedero con molinete - 50 cms.
+   → REF=30468 | PADRE=- | DESC=Calefactor Infraconic Kit Mini Farm 1500
+   → REF=30523 | PADRE=- | DESC=Bebedero Automático basculante para ave
+   → REF=30530 | PADRE=- | DESC=Jaula de pollos de engorde - 2 departame
+   → REF=30543 | PADRE=- | DESC=Válvula Combi Multi-Direccional
+   → REF=30571 | PADRE=- | DESC=Comedero de plástico de rejilla - 40 cm
+   → REF=30572 | PADRE=- | DESC=Comedero de plástico de rejilla - 80 cm
+   → REF=30573 | PADRE=- | DESC=Comedero de plástico de reijlla ancha -
+   → REF=30574 | PADRE=- | DESC=Comedero de plástico de reijlla estrech
+   → REF=30575 | PADRE=- | DESC=Comedero de plástico de reijlla ancha -
+   → REF=30576 | PADRE=- | DESC=Comedero de plástico de reijlla estrech
+   → REF=30577 | PADRE=- | DESC=Comedero de plástico con huecos - 1 m. 
+   → REF=30578 | PADRE=- | DESC=Comedero de plástico con huecos - 50 cm
+   → REF=30579 | PADRE=- | DESC=Bebedero automático de plástico - 50 c
+   → REF=30581 | PADRE=- | DESC=Regulador para placa térmica hasta 500 
+   → REF=30582 | PADRE=- | DESC=Regulador para placa térmica hasta 3000
+   → REF=30584 | PADRE=- | DESC=Nido Plástico para Palomas Terracota
+   → REF=30585 | PADRE=- | DESC=Tolva de plástico - 4 kg./ 7 l. rojo
+   → REF=30590 | PADRE=- | DESC=Depósito Plástico 60 l.Verde
+   → REF=30592 | PADRE=- | DESC=Depósito Plástico 120 l.
+   → REF=30593 | PADRE=- | DESC=Depósito Plástico 220 l.
+   → REF=30596 | PADRE=- | DESC=Empalme Tubería Goma 7/7
+   → REF=30597 | PADRE=- | DESC=Tolva de plástico - 12 kg./ 20 l. rojo
+   → REF=30598 | PADRE=- | DESC=Tolva de plástico - 16 kg./ 27 l. rojo
+   → REF=30608 | PADRE=- | DESC=Llave De Paso-10 (2 Unidades)
+   → REF=30609 | PADRE=- | DESC=Llave De Paso-7 (2 Unidades)
+   → REF=30616 | PADRE=- | DESC=Bebedero 2ª edad - 5 l. rojo
+   → REF=30617 | PADRE=- | DESC=Bebedero 2ª edad - 8 l. rojo
+   → REF=30618 | PADRE=- | DESC=Bebedero 2ª edad - 12 l. rojo
+   → REF=30620 | PADRE=- | DESC=Jaula de pollos de engorde - 1 departame
+   → REF=30621 | PADRE=- | DESC=Ponedero con suelo de alambre - 1 depart
+   → REF=30622 | PADRE=- | DESC=Tolva metálica para aves - 5 kg./ 9 l.
+   → REF=30625 | PADRE=- | DESC=Caseta de madera para aves Modelo Bristo
+   → REF=30626 | PADRE=- | DESC=Caseta de madera para aves Modelo Lyon
+   → REF=30627 | PADRE=- | DESC=Caseta de madera para aves Modelo Berlí
+   → REF=30630 | PADRE=- | DESC=Caseta de madera Modelo Bruselas
+   → REF=30631 | PADRE=- | DESC=Caseta de madera Modelo Dublín
+   → REF=30632 | PADRE=- | DESC=Parque de madero Modelo Universal nº 1
+   → REF=30633 | PADRE=- | DESC=Parque de madero Modelo Universal nº 2
+   → REF=30634 | PADRE=- | DESC=Caseta de madera Modelo Lisboa
+   → REF=30635 | PADRE=- | DESC=Caseta de madera Modelo Praga
+   → REF=30642 | PADRE=- | DESC=Bebedero colgante Mini
+   → REF=30645 | PADRE=- | DESC=Anillo anti-desperdicio para tolva 33,5 
+   → REF=30646 | PADRE=- | DESC=Anillo anti-desperdicio para tolva 9/ 14
+   → REF=30647 | PADRE=- | DESC=Tolva de plástico - 2 kg./ 3,5 l. rojo
+   → REF=30653 | PADRE=- | DESC=Tolva de plástico - 8 kg./ 12 l. rojo
+   → REF=30654 | PADRE=- | DESC=Caseta de madera Modelo Amsterdam
+   → REF=30655 | PADRE=- | DESC=Caseta de madera Modelo Berlín Maxi
+   → REF=30657 | PADRE=- | DESC=Nacedora de aves con calefacción
+   → REF=30658 | PADRE=- | DESC=Jaula multiusos sin accesorios
+   → REF=30660 | PADRE=- | DESC=Bebedero Eco de plástico - 1,5 l. rojo
+   → REF=30661 | PADRE=- | DESC=Bebedero Eco de plástico - 3 l. rojo
+   → REF=30662 | PADRE=- | DESC=Bebedero Eco de plástico - 5 l. rojo
+   → REF=30663 | PADRE=- | DESC=Bebedero Eco de plástico - 8 l. rojo
+   → REF=30664 | PADRE=- | DESC=Bebedero Eco de plástico - 10 l. rojo
+   → REF=30667 | PADRE=- | DESC=Bebedero cubo metálico - 12 l.
+   → REF=30668 | PADRE=- | DESC=Bebedero Mixto para aves con boya
+   → REF=30669 | PADRE=- | DESC=Bebedero mixto para aves con botella
+   → REF=30671 | PADRE=- | DESC=Bebedero mixto para aves sin botella
+   → REF=30676 | PADRE=- | DESC=Ponedero con suelo de alambre - 4 depart
+   → REF=30690 | PADRE=- | DESC=Comedero corral - 60 cms.
+   → REF=30691 | PADRE=- | DESC=Comedero corral con patas - 60 cms.
+   → REF=30692 | PADRE=- | DESC=Comedero corral - 120 cms.
+   → REF=30693 | PADRE=- | DESC=Comedero corral con patas - 120 cms.
+   → REF=30694 | PADRE=- | DESC=Caseta de madera para aves Modelo Italia
+   → REF=30695 | PADRE=- | DESC=Caseta de madera para aves Modelo Franci
+   → REF=30696 | PADRE=- | DESC=Caseta de madera para aves Modelo Budape
+   → REF=30697 | PADRE=- | DESC=Grapadora Manual Eco
+   → REF=30701 | PADRE=- | DESC=Batería de ponedoras - 1 departamento
+   → REF=30702 | PADRE=- | DESC=Batería de ponedoras - 2 departamentos
+   → REF=30703 | PADRE=- | DESC=Batería de ponedoras - 3 departamentos
+   → REF=30704 | PADRE=- | DESC=Comedero para batería de ponedoras - 1 
+   → REF=30705 | PADRE=- | DESC=Comedero para batería de ponedoras - 2 
+   → REF=30706 | PADRE=- | DESC=Comedero para batería de ponedoras - 3 
+   → REF=30707 | PADRE=- | DESC=Batería de ponedoras - 6 departamentos
+   → REF=30716 | PADRE=- | DESC=Racor Plástico Salida Depósito
+   → REF=30717 | PADRE=- | DESC=Bebedero Mini para aves con boya
+   → REF=30718 | PADRE=- | DESC=Bebedero Mini para aves con botella 0,5 
+   → REF=30719 | PADRE=- | DESC=Bebedero Mini para aves con botella 2 l.
+   → REF=30727 | PADRE=- | DESC=Bebedero automático Mini sin botella
+   → REF=30728 | PADRE=- | DESC=Comedero Grande para jaula de pollos
+   → REF=30729 | PADRE=- | DESC=Depósito 7l Rectangular con Filtro
+   → REF=30736 | PADRE=- | DESC=Bebedero nivel constante para depósito
+   → REF=30737 | PADRE=- | DESC=Dispensador anti estrés para aves
+   → REF=30738 | PADRE=- | DESC=Batería de ponedoras - 9 departamentos
+   → REF=30746 | PADRE=- | DESC=Incubadora Real 24
+   → REF=30748 | PADRE=- | DESC=Incubadora Real 49
+   → REF=30758 | PADRE=- | DESC=Humidificador Sirio para incubadora
+   → REF=30759 | PADRE=- | DESC=Bandeja de plástico para 30 huevos
+   → REF=30760 | PADRE=- | DESC=Comedero de apertura mecánica Safeed - 
+   → REF=30761 | PADRE=- | DESC=Comedero de apertura mecánica Safeed - 
+   → REF=30762 | PADRE=- | DESC=Comedero de apertura mecánica Safeed - 
+   → REF=30763 | PADRE=- | DESC=Comedero de apertura mecánica Safeed - 
+   → REF=30769 | PADRE=- | DESC=Comedero de apertura mecánica Safeed - 
+   → REF=30771 | PADRE=- | DESC=Criadora de Pollitos Babypark con Lámpa
+   → REF=30776 | PADRE=- | DESC=Criadora de Pollitos Babypark sin acceso
+   → REF=30777 | PADRE=- | DESC=Grapadora Eco+200 Grapas Vr18
+   → REF=30778 | PADRE=- | DESC=Bebedero B-70 para malla universal
+   → REF=30779 | PADRE=- | DESC=Bebedero B-50 para malla universal
+   → REF=30780 | PADRE=- | DESC=Bebedero Pájaros Basculante B-50 Malla 
+   → REF=30781 | PADRE=- | DESC=Bebedero B-70 para depósito
+   → REF=30782 | PADRE=- | DESC=Bebedero B-50 para depósito
+   → REF=30784 | PADRE=- | DESC=Bebedero B-70 para malla rígida
+   → REF=30785 | PADRE=- | DESC=Bebedero B-50 para malla rígida
+   → REF=30787 | PADRE=- | DESC=Pack incubadora Real 24 con humidificado
+   → REF=30788 | PADRE=- | DESC=Incubadora Lumia 16
+   → REF=30789 | PADRE=- | DESC=Pack incubadora Lumia 16 con humidificad
+   → REF=30790 | PADRE=- | DESC=Calefactor Pollitos Nanny Hen 18W
+   → REF=30791 | PADRE=- | DESC=Comedero con molinete de chapa galvaniza
+   → REF=30792 | PADRE=- | DESC=Comedero con molinete de chapa galvaniza
+   → REF=30793 | PADRE=- | DESC=Comedero con molinete de acero inoxidabl
+   → REF=30794 | PADRE=- | DESC=Comedero con molinete de acero inoxidabl
+   → REF=30797 | PADRE=- | DESC=Caseta de madera para aves Modelo Manche
+   → REF=30798 | PADRE=- | DESC=Comedero de apertura mecánica Safeed - 
+   → REF=30799 | PADRE=- | DESC=Criadora de Pollitos Babypark con calefa
+   → REF=30806 | PADRE=- | DESC=Parque de Pollitos con accesorios
+   → REF=30807 | PADRE=- | DESC=Parque de Pollitos sin accesorios
+   → REF=30808 | PADRE=- | DESC=Puerta guillotina para gallinero - Media
+   → REF=30809 | PADRE=- | DESC=Puerta guillotina para gallinero - Grand
+   → REF=30810 | PADRE=- | DESC=Grapadora Eco con Cargador
+   → REF=30818 | PADRE=- | DESC=Bidón con Filtro De 8 l.
+   → REF=30819 | PADRE=- | DESC=Filtro Pequeño
+   → REF=30824 | PADRE=- | DESC=Calefactor Pollitos Nanny Hen USA 110V 1
+   → REF=30825 | PADRE=- | DESC=Calefactor Pollitos Nanny Hen 36W
+   → REF=30826 | PADRE=- | DESC=Calefactor Pollitos Nanny Hen Usa 110V 3
+   → REF=30830 | PADRE=- | DESC=Ponedero con suelo de alambre - 2 depart
+   → REF=30840 | PADRE=- | DESC=Ponedero Colectavi - 1 piso
+   → REF=30841 | PADRE=- | DESC=Ponedero Colectavi - 2 pisos
+   → REF=30846 | PADRE=- | DESC=Ponedero Colectavi Central principio
+   → REF=30847 | PADRE=- | DESC=Ponedero Colectavi Central ampliación
+   → REF=30850 | PADRE=- | DESC=Bebedero B-50 con botella 0,5 l.
+   → REF=30851 | PADRE=- | DESC=Bebedero B-50 con botella 1 l.
+   → REF=30852 | PADRE=- | DESC=Bebedero B-50 con depósito 30 l.
+   → REF=30853 | PADRE=- | DESC=Bebedero B-50 Pájaros con Depósito 0,5
+   → REF=30854 | PADRE=- | DESC=Bebedero B-50 Pájaros con Depósito 1 l
+   → REF=30855 | PADRE=- | DESC=Bebedero B-70 con depósito 30 l.
+   → REF=30856 | PADRE=- | DESC=Bebederos Eco de plástico reciclado - 1
+   → REF=30857 | PADRE=- | DESC=Bebederos Eco de plástico reciclado - 3
+   → REF=30858 | PADRE=- | DESC=Bebederos Eco de plástico reciclado - 5
+   → REF=30859 | PADRE=- | DESC=Bebederos Eco de plástico reciclado - 8
+   → REF=30860 | PADRE=- | DESC=Bebederos Eco de plástico reciclado - 1
+   → REF=30861 | PADRE=- | DESC=Bebedero Eco de plástico reciclado con 
+   → REF=30862 | PADRE=- | DESC=Bebedero Eco de plástico reciclado con 
+   → REF=30863 | PADRE=- | DESC=Bebedero Eco de plástico reciclado con 
+   → REF=30864 | PADRE=- | DESC=Tolva de plástico reciclado - 2 kg./ 3,
+   → REF=30865 | PADRE=- | DESC=Tolva de plástico reciclado - 4 kg./ 7 
+   → REF=30866 | PADRE=- | DESC=Tolva de plástico reciclado - 8 kg./ 12
+   → REF=30867 | PADRE=- | DESC=Tolva de plástico reciclado - 12 kg./ 2
+   → REF=30868 | PADRE=- | DESC=Tolva de plástico reciclado - 16 kg./ 2
+   → REF=30869 | PADRE=- | DESC=Tolva de plástico reciclado con patas -
+   → REF=30870 | PADRE=- | DESC=Tolva de plástico reciclado con patas -
+   → REF=30873 | PADRE=- | DESC=Elevador automático para salida de aves
+   → REF=30874 | PADRE=- | DESC=Elevador automático con puerta para sal
+   → REF=30875 | PADRE=- | DESC=Bebedero cubo de plástico - 5,5 l. gris
+   → REF=30876 | PADRE=- | DESC=Bebedero cubo de plástico - 5,5 l. amar
+   → REF=30877 | PADRE=- | DESC=Protector Plástico Anti Aves
+   → REF=30878 | PADRE=- | DESC=Huevera de plástico con asa para 12 hue
+   → REF=30879 | PADRE=- | DESC=Huevera de plástico con asa para 12 hue
+   → REF=30884 | PADRE=- | DESC=Ponedero exterior Platinum - 3 departame
+   → REF=30885 | PADRE=- | DESC=Ponedero exterior Platinum - 2 departame
+   → REF=30886 | PADRE=- | DESC=Ponedero exterior Platinum - 1 departame
+   → REF=30887 | PADRE=- | DESC=Ponedero interior Platinum - 1 departame
+   → REF=30888 | PADRE=- | DESC=Ponedero interior Platinum - 2 departame
+   → REF=30889 | PADRE=- | DESC=Ponedero interior Platinum - 3 departame
+   → REF=30890 | PADRE=- | DESC=Ponedero interior Platinum con patas - 1
+   → REF=30891 | PADRE=- | DESC=Ponedero interior Platinum con patas - 2
+   → REF=30892 | PADRE=- | DESC=Ponedero interior Platinum con patas - 3
+   → REF=30893 | PADRE=- | DESC=Ponedero exterior de plástico Confort -
+   → REF=30894 | PADRE=- | DESC=Ponedero interior de plástico Confort -
+   → REF=30896 | PADRE=- | DESC=Ponedero exterior de plástico Confort -
+   → REF=30897 | PADRE=- | DESC=Ponedero interior de plástico Confort -
+   → REF=30899 | PADRE=- | DESC=Huevera de plástico Eco para 8 huevos
+   → REF=30901 | PADRE=- | DESC=Nido exterior Platinum - 1 departamento
+   → REF=30902 | PADRE=- | DESC=Nido exterior Platinum - 2 departamentos
+   → REF=30903 | PADRE=- | DESC=Nido exterior Platinum - 3 departamentos
+   → REF=30904 | PADRE=- | DESC=Nido interior Platinum - 1 departamento
+   → REF=30905 | PADRE=- | DESC=Nido interior Platinum - 2 departamentos
+   → REF=30906 | PADRE=- | DESC=Nido interior Platinum - 3 departamentos
+   → REF=30907 | PADRE=- | DESC=Nido interior Platinum con patas - 1 dep
+   → REF=30908 | PADRE=- | DESC=Nido interior Platinum con patas - 2 dep
+   → REF=30909 | PADRE=- | DESC=Nido interior Platinum con patas - 3 dep
+   → REF=30911 | PADRE=- | DESC=Nido de plástico Confort - 1 ud.
+   → REF=30912 | PADRE=- | DESC=Nido de plástico Confort - 5 uds.
+   → REF=30920 | PADRE=- | DESC=Módulo ponedero interior Platinum con p
+   → REF=30921 | PADRE=- | DESC=Módulo ponedero interior Platinum con p
+   → REF=30922 | PADRE=- | DESC=Módulo nido interior Platinum con patas
+   → REF=30923 | PADRE=- | DESC=Módulo nido interior Platinum con patas
+   → REF=30932 | PADRE=- | DESC=Ponedero interior Platinum - 4 departame
+   → REF=30933 | PADRE=- | DESC=Ponedero interior Platinum con patas - 4
+   → REF=30934 | PADRE=- | DESC=Ponedero exterior Platinum - 4 departame
+   → REF=30935 | PADRE=- | DESC=Módulo ponedero interior Platinum con p
+   → REF=30936 | PADRE=- | DESC=Nido interior Platinum - 4 departamentos
+   → REF=30937 | PADRE=- | DESC=Nido interior Platinum con patas - 4 dep
+   → REF=30938 | PADRE=- | DESC=Nido exterior Platinum - 4 departamentos
+   → REF=30939 | PADRE=- | DESC=Módulo nido interior Platinum con patas
+   → REF=30941 | PADRE=- | DESC=Módulo ponedero interior Platinum con p
+   → REF=30942 | PADRE=- | DESC=Módulo ponedero interior Platinum con p
+   → REF=30943 | PADRE=- | DESC=Módulo ponedero interior Platinum con p
+   → REF=30944 | PADRE=- | DESC=Módulo nido interior Platinum con patas
+   → REF=30945 | PADRE=- | DESC=Módulo nido interior Platinum con patas
+   → REF=30946 | PADRE=- | DESC=Aseladero para ponedero Platinum - 1 dep
+   → REF=30947 | PADRE=- | DESC=Aseladero para ponedero Platinum - 2 dep
+   → REF=30948 | PADRE=- | DESC=Aseladero para ponedero Platinum - 3 dep
+   → REF=30949 | PADRE=- | DESC=Aseladero para ponedero Platinum - 4 dep
+   → REF=30950 | PADRE=- | DESC=Módulo nido interior Platinum con patas
+   → REF=30951 | PADRE=- | DESC=Aseladero de suelo para Pollitos - 17x40
+   → REF=30952 | PADRE=- | DESC=Ponedero exterior de plástico reciclado
+   → REF=30953 | PADRE=- | DESC=Ponedero interior de plástico reciclado
+   → REF=30954 | PADRE=- | DESC=Ponedero exterior de plástico reciclado
+   → REF=30955 | PADRE=- | DESC=Ponedero interior de plástico reciclado
+   → REF=30956 | PADRE=- | DESC=Nido de plástico reciclado Confort - 1 
+   → REF=30957 | PADRE=- | DESC=Nido de plástico reciclado Confort - 5 
+   → REF=30961 | PADRE=- | DESC=Aseladero de suelo para Pollitos - 22x60
+   → REF=30962 | PADRE=- | DESC=Aseladero de suelo para Pollitos - 17x60
+   → REF=30963 | PADRE=- | DESC=Forrajera colgante para aves
+   → REF=30964 | PADRE=- | DESC=Kit de inicación de ponedoras Free-Rang
+   → REF=30965 | PADRE=- | DESC=Ponedero Eco Colectavi Central
+   → REF=30966 | PADRE=- | DESC=Gallinero móvil Free-Range 1,5x 1,8 m.
+   → REF=30969 | PADRE=- | DESC=Kit de Iniciación de Pollitos de 1ª ed
+   → REF=30970 | PADRE=- | DESC=Gallinero móvil Free-Range 1,5x 1,8 m. 
+   → REF=30971 | PADRE=- | DESC=Gallinero móvil Free-Range 1x 1,2 m.
+   → REF=30972 | PADRE=- | DESC=Gallinero móvil Free-Range 1x 1,2 m. co
+   → REF=30977 | PADRE=- | DESC=Bebedero Eco de plástico con patas - 1,
+   → REF=30978 | PADRE=- | DESC=Bebedero Eco de plástico con patas - 3 
+   → REF=30980 | PADRE=- | DESC=Bebedero Eco de plástico con patas - 1,
+   → REF=30981 | PADRE=- | DESC=Bebedero Eco de plástico con patas - 3 
+   → REF=30982 | PADRE=- | DESC=Bebedero Eco de plástico reciclado con 
+   → REF=30983 | PADRE=- | DESC=Bebedero Eco de plástico reciclado con 
+   → REF=30984 | PADRE=- | DESC=Tolva de plástico con patas- 12 kg./ 20
+   → REF=30985 | PADRE=- | DESC=Tolva de plástico con patas- 12 kg./ 20
+   → REF=30986 | PADRE=- | DESC=Tolva de plástico con patas- 16 kg./ 27
+   → REF=30987 | PADRE=- | DESC=Tolva de plástico con patas- 16 kg./ 27
+   → REF=30988 | PADRE=- | DESC=Tolva de plástico con patas- 2 kg./ 3,5
+   → REF=30989 | PADRE=- | DESC=Tolva de plástico con patas- 2 kg./ 3,5
+   → REF=30990 | PADRE=- | DESC=Tolva de plástico reciclado con patas -
+   → REF=30991 | PADRE=- | DESC=Tolva de plástico reciclado con patas -
+   → REF=30992 | PADRE=- | DESC=Tolva de plástico reciclado con patas -
+   → REF=30993 | PADRE=- | DESC=Tolva de plástico modelo Chips - 4 kg. 
+   → REF=30994 | PADRE=- | DESC=Tolva de plástico modelo Chips - 4 kg. 
+   → REF=30995 | PADRE=- | DESC=Tolva de plástico reciclado modelo Chip
+   → REF=30996 | PADRE=- | DESC=Tolva de plástico con patas modelo Chip
+   → REF=30997 | PADRE=- | DESC=Tolva de plástico con patas modelo Chip
+   → REF=30998 | PADRE=- | DESC=Tolva de plástico reciclado con patas  
+   → REF=31197 | PADRE=- | DESC=Bebedero Eco Aves 3 l. Chips Reciclado
+   → REF=31198 | PADRE=- | DESC=Bebedero Eco Aves 3 l.  Chips Rojo
+   → REF=31199 | PADRE=- | DESC=Bebedero Eco Aves 3 l. Chips Azul
+   → REF=31200 | PADRE=- | DESC=Bebedero Eco Aves 3 l.  Chips C/Patas Re
+   → REF=31201 | PADRE=- | DESC=Bebedero Eco Aves 3 l.  Chips C/Patas Ro
+   → REF=31202 | PADRE=- | DESC=Bebedero Eco Aves 3 l.  Chips C/Patas Az
+   → REF=31203 | PADRE=- | DESC=Tolva de plástico Aves 2KG Chips Recicl
+   → REF=31204 | PADRE=- | DESC=Tolva de plástico Aves 2KG Chips Rojo
+   → REF=31205 | PADRE=- | DESC=Tolva de plástico Aves 2KG Chips Azul
+   → REF=31206 | PADRE=- | DESC=Tolva de plástico Aves 2KG Chips C/Pata
+   → REF=31207 | PADRE=- | DESC=Tolva de plástico Aves 2KG Chips C/Pata
+   → REF=31208 | PADRE=- | DESC=Tolva de plástico Aves 2KG Chips C/Pata
+   → REF=35020 | PADRE=- | DESC=Bebedero de cazoleta M-73 para aves
+   → REF=35023 | PADRE=- | DESC=Bebedero de cazoleta nivel constante
+   → REF=35025 | PADRE=- | DESC=Bebedero de cazoleta M-73 para conejos
+   → REF=35028 | PADRE=- | DESC=Tubo Goma Negra 10x14 (Rollo 25 m.)
+   → REF=35033 | PADRE=- | DESC=Regulador De Presión (Montaña)
+   → REF=35040 | PADRE=- | DESC=Pieza "T" 12mm Montaña
+   → REF=35041 | PADRE=- | DESC=Pieza "T" 12x17mm Reductora-Mo
+   → REF=35042 | PADRE=- | DESC=Válvula Plana Entrada Horizontal
+   → REF=35047 | PADRE=- | DESC=Válvula Plana Entrada Vertical
+   → REF=35051 | PADRE=- | DESC=Collarín Pequeño De Goma
+   → REF=35077 | PADRE=- | DESC=Depósito Regulador de Presión 1.5l Rac
+   → REF=40400 | PADRE=- | DESC=Tolva 2 Huecos Starter - lechones
+   → REF=40401 | PADRE=- | DESC=Tolva 3 Huecos Starter - lechones
+   → REF=40402 | PADRE=- | DESC=Tolva 4 Huecos Starter - lechones
+   → REF=40417 | PADRE=- | DESC=Tolva Cerdos Mod.78 -2 Huecos
+   → REF=40419 | PADRE=- | DESC=Tolva Cerdos Mod.78 -4 Huecos
+   → REF=40422 | PADRE=- | DESC=Bebedero Chupete Acero Inoxidable para C
+   → REF=40545 | PADRE=- | DESC=Calefactor Eléctrico LGA 1080 sin pila
+   → REF=40550 | PADRE=- | DESC=Bebedero Mod. Mural lechones
+   → REF=40553 | PADRE=- | DESC=Porta-Lámparas Infrarrojo con Protector
+   → REF=40556 | PADRE=- | DESC=Lámpara Infrarroja 150 W
+   → REF=40557 | PADRE=- | DESC=Lámpara Infrarroja 250 W
+   → REF=40558 | PADRE=- | DESC=Lámpara Infrarroja Ir Par 100 W
+   → REF=40559 | PADRE=- | DESC=Lámpara Infrarroja Ir Par 175 W
+   → REF=40561 | PADRE=- | DESC=Placa térmica de poliéster - Grande
+   → REF=40563 | PADRE=- | DESC=Placa térmica de poliéster - Pequeña
+   → REF=40564 | PADRE=- | DESC=Metro de perfil de poliéster
+   → REF=40577 | PADRE=- | DESC=Placa de slat de plástico 60x40 cms.
+   → REF=40595 | PADRE=- | DESC=Metro lineal de pletina galvanizada
+   → REF=50504 | PADRE=- | DESC=Comedero Corderos - 2 m.
+   → REF=50505 | PADRE=- | DESC=Bebedero Canal para Corderos - 2 m.
+   → REF=50506 | PADRE=- | DESC=Bebedero Canal para corderos - 1,5 m.
+   → REF=50507 | PADRE=- | DESC=Bebedero Terneros con Ancarrana
+   → REF=50509 | PADRE=- | DESC=Forrajera Pared Mod-78 - 2 m.
+   → REF=50510 | PADRE=- | DESC=Forrajera Mod.Especial para Ovejas - 2 m
+   → REF=50512 | PADRE=- | DESC=Bebedero Canal para corderos - 1 m.
+   → REF=50513 | PADRE=- | DESC=Valla Telera Pintada 2x1 m. Altura
+   → REF=50514 | PADRE=- | DESC=Valla Telera Pintada 1x1 m. Altura
+   → REF=50515 | PADRE=- | DESC=Bebedero Empujador para Vacas
+   → REF=50518 | PADRE=- | DESC=Valla Telera Pintada x1 m. con Gatera
+   → REF=50522 | PADRE=- | DESC=Válvula Flotador Bebedero Semi-Regu Ver
+   → REF=50525 | PADRE=- | DESC=Soporte Piedras De Sal
+   → REF=50526 | PADRE=- | DESC=Válvula Alta Presión con Racor
+   → REF=50530 | PADRE=- | DESC=Forrajera Individual para Ovejas
+   → REF=50531 | PADRE=- | DESC=Bebedero Ovejas Nivel constante con ancl
+   → REF=50532 | PADRE=- | DESC=Paridera Ovejas Principio
+   → REF=50533 | PADRE=- | DESC=Paridera Ovejas Ampliación
+   → REF=50535 | PADRE=- | DESC=Paridera Ovejas Principio sin respaldo
+   → REF=50536 | PADRE=- | DESC=Paridera Ovejas Ampliación sin respaldo
+   → REF=50540 | PADRE=- | DESC=Forrajera Pared Mod. 78 con respaldo - 1
+   → REF=50555 | PADRE=- | DESC=Forrajera Mod.Especial para Ovejas 1 m.
+   → REF=50569 | PADRE=- | DESC=Tolva Arranque Corderos
+   → REF=50571 | PADRE=- | DESC=Comedero Corderos 1 m.
+   → REF=50572 | PADRE=- | DESC=Valla Telera Pintada 2x 1.20 m. Altura
+   → REF=50574 | PADRE=- | DESC=Valla Telera Pintada 1 x1,20 m. Altura
+   → REF=50585 | PADRE=- | DESC=Comedero Chapa para Ovejas
+   → REF=50588 | PADRE=- | DESC=Bebedero Empujador Ovejas Aluminio
+   → REF=50589 | PADRE=- | DESC=Bebedero Empujador Ovejas Pintado
+   → REF=50599 | PADRE=- | DESC=Soporte Plástico Piedra De Sal
+   → REF=50600 | PADRE=- | DESC=Bebedero Ovejas Grande
+   → REF=50601 | PADRE=- | DESC=Valla Telera Galvanizada 2x1.2 m. Altura
+   → REF=50602 | PADRE=- | DESC=Valla Telera Galvanizada 1x1.2 m. Altura
+   → REF=50604 | PADRE=- | DESC=Tapa forrajera para ovejas - 1 m.
+   → REF=50605 | PADRE=- | DESC=Tapa forrajera para ovejas - 2 m.
+   → REF=50609 | PADRE=- | DESC=Bebedero Corderos 1 m. con Patas
+   → REF=50610 | PADRE=- | DESC=Bebedero Corderos 1.5 m. con Patas
+   → REF=50616 | PADRE=- | DESC=Bebedero Canal 0.5 m. Corderos
+   → REF=50619 | PADRE=- | DESC=Forrajera Corderos 42x28xh50cm
+   → REF=50620 | PADRE=- | DESC=Forrajera Corderos 42x28xh50cm C/Bandeja
+   → REF=50621 | PADRE=- | DESC=Comedero ovejas 1.20M Principio
+   → REF=50622 | PADRE=- | DESC=Comedero ovejas 1.20M Ampliación
+   → REF=50623 | PADRE=- | DESC=Forrajera ovejas 1.20M Principio
+   → REF=50624 | PADRE=- | DESC=Forrajera ovejas 1.20M Ampliación
+   → REF=50631 | PADRE=- | DESC=Cubo 8 litros Terneros
+   → REF=50633 | PADRE=- | DESC=Cubo 8 litros Corderos 3 Tetinas
+   → REF=50634 | PADRE=- | DESC=Cubo 8 litros Corderos 5 Tetinas
+   → REF=50635 | PADRE=- | DESC=Biberon 1 litro Corderos
+   → REF=50637 | PADRE=- | DESC=Capazo 42 litros Negro
+   → REF=50638 | PADRE=- | DESC=Palo De Hierro 140 cm
+   → REF=50639 | PADRE=- | DESC=Cepillo Barrendero 50 cm
+   → REF=50640 | PADRE=- | DESC=Cepillo Industrial
+   → REF=50641 | PADRE=- | DESC=Cepillo Mina
+   → REF=50643 | PADRE=- | DESC=Cepillo Haragán 75 cm
+   → REF=50644 | PADRE=- | DESC=Cubo 6 l. con Asa Reciclado
+   → REF=50645 | PADRE=- | DESC=Cubo 16 l. con Asa Reciclado
+   → REF=50646 | PADRE=- | DESC=Cubo 100 l. Negro con Tapa
+   → REF=50647 | PADRE=- | DESC=Bolsa Basura Cubo 100 l. (x10 Ud)
+   → REF=70005 | PADRE=- | DESC=Correa anti-tirón con 2 mosquetones Esp
+   → REF=70006 | PADRE=- | DESC=Correa anti-tirón con 2 mosquetones Esp
+   → REF=70007 | PADRE=- | DESC=Correa anti-tirón con 2 mosquetones Esp
+   → REF=70008 | PADRE=- | DESC=Correa anti-tirón con 2 mosquetones Esp
+   → REF=70010 | PADRE=- | DESC=Bebedero/Comedero de Plástico con acces
+   → REF=70011 | PADRE=- | DESC=Bebedero/Comedero de Plástico sin acces
+   → REF=70012 | PADRE=- | DESC=Bebedero/Comedero de Plástico con acces
+   → REF=70013 | PADRE=- | DESC=Bebedero/Comedero de Plástico sin acces
+   → REF=70024 | PADRE=- | DESC=Kit Canicross Esparta - Talla L
+   → REF=70025 | PADRE=- | DESC=Correa reflectante Esparta - Talla S Nar
+   → REF=70026 | PADRE=- | DESC=Correa reflectante Esparta - Talla M Nar
+   → REF=70027 | PADRE=- | DESC=Correa reflectante Esparta - Talla S Ver
+   → REF=70028 | PADRE=- | DESC=Correa reflectante Esparta - Talla M Ver
+   → REF=70029 | PADRE=- | DESC=Correa reflectante Esparta - Talla S Neg
+   → REF=70030 | PADRE=- | DESC=Correa reflectante Esparta - Talla M Neg
+   → REF=70032 | PADRE=- | DESC=Correa reflectante Esparta - Talla M Roj
+   → REF=70033 | PADRE=- | DESC=Correa reflectante Esparta - Talla S Azu
+   → REF=70034 | PADRE=- | DESC=Correa reflectante Esparta - Talla M Azu
+   → REF=70049 | PADRE=- | DESC=Arnés para razas pequeñas - Talla XS l
+   → REF=70050 | PADRE=- | DESC=Arnés para razas pequeñas - Talla S le
+   → REF=70051 | PADRE=- | DESC=Arnés para razas pequeñas - Talla XS N
+   → REF=70052 | PADRE=- | DESC=Arnés para razas pequeñas - Talla S Ne
+   → REF=70057 | PADRE=- | DESC=Arnés Esparta fort - Talla XXL Camuflaj
+   → REF=70060 | PADRE=- | DESC=Arnés Esparta fort - Talla L leopardo
+   → REF=70061 | PADRE=- | DESC=Arnés Esparta fort - Talla XL leopardo
+   → REF=70062 | PADRE=- | DESC=Arnés Esparta fort - Talla XXL leopardo
+   → REF=70073 | PADRE=- | DESC=Comedero Palomos 1Dp. Tapa Metal Coflex
+   → REF=70076 | PADRE=- | DESC=Comedero Palomos 2Dp. Tapa Metal Coflex
+   → REF=70079 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Verd
+   → REF=70080 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Verd
+   → REF=70081 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Verd
+   → REF=70082 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Verd
+   → REF=70083 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Verd
+   → REF=70084 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Negr
+   → REF=70085 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Negr
+   → REF=70086 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Negr
+   → REF=70087 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Negr
+   → REF=70088 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Negr
+   → REF=70089 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Amar
+   → REF=70090 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Amar
+   → REF=70091 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Amar
+   → REF=70092 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Amar
+   → REF=70093 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Amar
+   → REF=70096 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Pir�
+   → REF=70097 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Pir�
+   → REF=70098 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Pir�
+   → REF=70099 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70100 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70101 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70102 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70103 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70104 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70105 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70106 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70107 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70108 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70109 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70110 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70111 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70112 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70113 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Fran
+   → REF=70114 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Amar
+   → REF=70115 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Amar
+   → REF=70116 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Amar
+   → REF=70117 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Amar
+   → REF=70118 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Amar
+   → REF=70119 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Rojo
+   → REF=70120 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Rojo
+   → REF=70121 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Rojo
+   → REF=70122 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Rojo
+   → REF=70123 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Rojo
+   → REF=70124 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Azul
+   → REF=70125 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Azul
+   → REF=70126 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Azul
+   → REF=70127 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Azul
+   → REF=70128 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Azul
+   → REF=70131 | PADRE=- | DESC=Comedero de acero inoxidable Antihormiga
+   → REF=70132 | PADRE=- | DESC=Comedero de acero inoxidable Antihormiga
+   → REF=70133 | PADRE=- | DESC=Comedero doble con soporte pez
+   → REF=70134 | PADRE=- | DESC=Comedero doble con soporte regulable - T
+   → REF=70135 | PADRE=- | DESC=Anillas de plástico para palomas 8 mm. 
+   → REF=70136 | PADRE=- | DESC=Anillas de plástico para palomas 8 mm. 
+   → REF=70137 | PADRE=- | DESC=Anillas de plástico para palomas 8 mm. 
+   → REF=70152 | PADRE=- | DESC=Comedero 1ª Edad con patas - 1,5 kg./ 2
+   → REF=70153 | PADRE=- | DESC=Comedero 1ª Edad con patas - 1,5 kg./ 2
+   → REF=70157 | PADRE=- | DESC=Comedero automático Dosidog - 38kg./ 63
+   → REF=70158 | PADRE=- | DESC=Comedero automático Dosidog - 16kg./ 27
+   → REF=70159 | PADRE=- | DESC=Automatismo Dosidog - 38kg./ 63 l.
+   → REF=70160 | PADRE=- | DESC=Automatismo Dosidog - 16kg./ 27 l.
+   → REF=70163 | PADRE=- | DESC=Bebedero de viaje para mascotas - 250 ml
+   → REF=70164 | PADRE=- | DESC=Bebedero de viaje para mascotas - 500 ml
+   → REF=70165 | PADRE=- | DESC=Bebedero de viaje para mascotas - 750 ml
+   → REF=70166 | PADRE=- | DESC=Comedero/Bebedero de viaje 1,5 l. - rojo
+   → REF=70167 | PADRE=- | DESC=Comedero/Bebedero de viaje 1,5 l. - verd
+   → REF=70168 | PADRE=- | DESC=Comedero/Bebedero de viaje 1,5 l. - gris
+   → REF=70171 | PADRE=- | DESC=Bebedero P-5 de hormigón
+   → REF=70202 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Rojo
+   → REF=70203 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Rojo
+   → REF=70204 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Rojo
+   → REF=70205 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Rojo
+   → REF=70206 | PADRE=- | DESC=Comedero de acero inoxidable Modelo Rojo
+   → REF=70207 | PADRE=- | DESC=Comedero de acero inoxidable doble pinta
+   → REF=70208 | PADRE=- | DESC=Comedero de acero inoxidable doble pinta
+   → REF=70211 | PADRE=- | DESC=Comedero 1ª Edad - 1,5 kg./ 2 l. azul
+   → REF=70212 | PADRE=- | DESC=Bebedero de aluminio P-3 con depósito 8
+   → REF=70213 | PADRE=- | DESC=Pala con Mango Plástico
+   → REF=70214 | PADRE=- | DESC=Horca con Mango
+   → REF=70215 | PADRE=- | DESC=Comedero 1 Dpto. Perdices/Palomas Chapa
+   → REF=70216 | PADRE=- | DESC=Comedero 2 Dptos. Perdices/Palomas Chapa
+   → REF=70217 | PADRE=- | DESC=Comedero 3 Dptos. Perdices/Palomas Chapa
+   → REF=70219 | PADRE=- | DESC=Paleta limpieza 70 mm.
+   → REF=70220 | PADRE=- | DESC=Paleta limpieza 75 mm.
+   → REF=70221 | PADRE=- | DESC=Paleta limpieza 100 mm.
+   → REF=70222 | PADRE=- | DESC=Nido de Fieltro para palomas con Soporte
+   → REF=70226 | PADRE=- | DESC=Bebedero automático de hormigón XL 8 l
+   → REF=70227 | PADRE=- | DESC=Bebedero Plato Automático Hormigón
+   → REF=70228 | PADRE=- | DESC=Comedero/Bebedero de hormigón redondo
+   → REF=70229 | PADRE=- | DESC=Juego Patas 3 Pisos Batería Palomas Eur
+   → REF=70230 | PADRE=- | DESC=Jaula Palomas 1 m. 2 Dpto. Europa Respal
+   → REF=70231 | PADRE=- | DESC=Jaula Palomas 1 m. 2 Dpt. Europa Respald
+   → REF=70232 | PADRE=- | DESC=Jaula con Patas para Palomas 1 m. 2Dpt. 
+   → REF=70233 | PADRE=- | DESC=Jaula con Patas para Palomas 1 m. 2Dpt. 
+   → REF=70234 | PADRE=- | DESC=Batería Palomas 1 m. 6Dpt. Europa Respa
+   → REF=70235 | PADRE=- | DESC=Batería Palomas 1 m. 6 Dpt. Europa Resp
+   → REF=70236 | PADRE=- | DESC=Batería Palomas 1 m. 8 Dpt. Europa Resp
+   → REF=70237 | PADRE=- | DESC=Bateria Palomas 1 m. 8 Dpt. Europa Respa
+   → REF=70238 | PADRE=- | DESC=Kit 4 Ruedas Verde/Gris D-60
+   → REF=70241 | PADRE=- | DESC=Comedero/Bebedero  de hormigón Cuadrado
+   → REF=70242 | PADRE=- | DESC=Bebedero automático de hormigón XL - 2
+   → REF=70243 | PADRE=- | DESC=Comedero/Bebedero de hormigón pequeño 
+   → REF=70244 | PADRE=- | DESC=Comedero/Bebedero de hormigón mediano 1
+   → REF=70250 | PADRE=- | DESC=Bebedero Canal Automático Hormigón
+   → REF=70251 | PADRE=- | DESC=Válvula Alta Presión Varilla
+   → REF=70270 | PADRE=- | DESC=Frente de barras 8 cms. Eco con puerta -
+   → REF=70271 | PADRE=- | DESC=Frente de barras 8 cms. Eco  con puerta 
+   → REF=70272 | PADRE=- | DESC=Frente de barras 8 cms. Eco  con puerta 
+   → REF=70274 | PADRE=- | DESC=Frente de barras 5 cms. Eco con puerta -
+   → REF=70275 | PADRE=- | DESC=Frente de barras 5 cms. Eco  con puerta 
+   → REF=70276 | PADRE=- | DESC=Frente de barras 5 cms. Eco  con puerta 
+   → REF=70282 | PADRE=- | DESC=Frente de malla 5x10 cms. Eco  con puert
+   → REF=70283 | PADRE=- | DESC=Frente de malla 5x10 cms. Eco  con puert
+   → REF=70284 | PADRE=- | DESC=Frente de malla 5x10 cms. Eco  con puert
+   → REF=70286 | PADRE=- | DESC=Lateral de barras 8 cms. Eco - 100x184 c
+   → REF=70287 | PADRE=- | DESC=Lateral de barras 8 cms. Eco - 150x184 c
+   → REF=70288 | PADRE=- | DESC=Lateral de barras 8 cms. Eco  - 200x184 
+   → REF=70290 | PADRE=- | DESC=Lateral de barras 5 cms. Eco - 100x184 c
+   → REF=70291 | PADRE=- | DESC=Lateral de barras 5 cms. Eco - 150x184 c
+   → REF=70292 | PADRE=- | DESC=Lateral de barras 5 cms. Eco - 200x184 c
+   → REF=70298 | PADRE=- | DESC=Lateral de malla 5x10 cms. Eco  con puer
+   → REF=70299 | PADRE=- | DESC=Lateral de malla 5x10 cms. Eco  con puer
+   → REF=70300 | PADRE=- | DESC=Lateral de malla 5x10 cms. Eco  con puer
+   → REF=70306 | PADRE=- | DESC=Pala Pienso Plástico 2.5 l.
+   → REF=70307 | PADRE=- | DESC=Recogedor Plástico con Rastrillo
+   → REF=70310 | PADRE=- | DESC=Comedero Palomas 8 cm
+   → REF=70311 | PADRE=- | DESC=Comedero Palomas 10 cm
+   → REF=70316 | PADRE=- | DESC=Comedero Tolva Can Junior
+   → REF=70317 | PADRE=- | DESC=Comedero Tolva Can Master
+   → REF=70329 | PADRE=- | DESC=Anillas de plástico para palomas 8 mm. 
+   → REF=70332 | PADRE=- | DESC=Pelechero 1 Piso 2 Dptos. 1.20 m.
+   → REF=70333 | PADRE=- | DESC=Pelechero 2 Pisos 4 Dptos. 1.20 m.
+   → REF=70334 | PADRE=- | DESC=Pelechero 3 Pisos 6 Dptos. 1.20 m.
+   → REF=70335 | PADRE=- | DESC=Pelechero 4 Pisos 8 Dptos. 1.20 m.
+   → REF=70336 | PADRE=- | DESC=Pelechero 1 Piso 2 Dptos. 1 m.
+   → REF=70337 | PADRE=- | DESC=Pelechero 2 Pisos 4 Dptos. 1 m.
+   → REF=70338 | PADRE=- | DESC=Pelechero 3 Pisos 6 Dptos. 1 m.
+   → REF=70339 | PADRE=- | DESC=Pelechero 4 Pisos 8 Dptos. 1 m.
+   → REF=70341 | PADRE=- | DESC=Comedero Plástico Colgar Pequeño
+   → REF=70342 | PADRE=- | DESC=Puerta Trampa Grande Palomas
+   → REF=70343 | PADRE=- | DESC=Bebedero de botella para perros - 12 l.
+   → REF=70381 | PADRE=- | DESC=Batería Codornices 1 Piso 4 Dptos.
+   → REF=70389 | PADRE=- | DESC=Juego Patas 1 Piso Jaula Exposición Pal
+   → REF=70390 | PADRE=- | DESC=Juego Patas 4 Pisos Jaula Exposición Pa
+   → REF=70400 | PADRE=- | DESC=Jaula Exposición loros
+   → REF=70401 | PADRE=- | DESC=Bebedero Empujador de plástico para Cab
+   → REF=70402 | PADRE=- | DESC=Lateral con malla para boxes de cachorro
+   → REF=70403 | PADRE=- | DESC=Lateral con malla para boxes de cachorro
+   → REF=70404 | PADRE=- | DESC=Frente con malla con puerta para boxes d
+   → REF=70405 | PADRE=- | DESC=Frente con malla con puerta para boxes d
+   → REF=70409 | PADRE=- | DESC=Bebedero Palomos Desmontable 2 l.
+   → REF=70410 | PADRE=- | DESC=Bebedero Palomos Desmontable 2.5 l.
+   → REF=70411 | PADRE=- | DESC=Bebedero de acero inoxidable P-5 para pe
+   → REF=70412 | PADRE=- | DESC=Bebedero de aluminio P-3. Entrada de agu
+   → REF=70413 | PADRE=- | DESC=Bebedero de aluminio P-3. Entrada de agu
+   → REF=70414 | PADRE=- | DESC=Bebedero de aluminio P-3. Entrada de agu
+   → REF=70415 | PADRE=- | DESC=Bebedero de aluminio P-3. Entrada de agu
+   → REF=70418 | PADRE=- | DESC=Red Sacadera Grande
+   → REF=70419 | PADRE=- | DESC=Batería Codornices 1 Piso con Bandeja
+   → REF=70420 | PADRE=- | DESC=Bebedero de plástico P-6 para Caballos
+   → REF=70421 | PADRE=- | DESC=Comedero Palomos con Visor
+   → REF=70429 | PADRE=- | DESC=Comedero Tolva de chapa galvanizada para
+   → REF=70431 | PADRE=- | DESC=Jaula Perdices 1 Dpto.
+   → REF=70432 | PADRE=- | DESC=Red Sacadera Pequeña
+   → REF=70433 | PADRE=- | DESC=Ratonera Mediana
+   → REF=70434 | PADRE=- | DESC=Ratonera Mini
+   → REF=70435 | PADRE=- | DESC=Jaula Exposición Palomas 2 Dpt. 1.20 m.
+   → REF=70444 | PADRE=- | DESC=Tolva Exterior Aves Mediana
+   → REF=70445 | PADRE=- | DESC=Jaula Perdices 3 Dptos. Principio
+   → REF=70446 | PADRE=- | DESC=Jaula Perdices 3 Dptos. Ampliación
+   → REF=70448 | PADRE=- | DESC=Comedero Tolva de chapa galvanizada para
+   → REF=70450 | PADRE=- | DESC=Bebedero basculante C-50 - 7 mm.
+   → REF=70451 | PADRE=- | DESC=Bebedero basculante C-50 - 10 mm.
+   → REF=70478 | PADRE=- | DESC=Comedero/Bebedero de chapa galvanizada p
+   → REF=70494 | PADRE=- | DESC=Caseta de madera con techo plano - Grand
+   → REF=70495 | PADRE=- | DESC=Caseta de madera con techo plano - Media
+   → REF=70496 | PADRE=- | DESC=Caseta de madera con techo plano - Peque
+   → REF=70497 | PADRE=- | DESC=Caseta de madera a 2 aguas - Grande
+   → REF=70498 | PADRE=- | DESC=Caseta de madera a 2 aguas - Mediana
+   → REF=70499 | PADRE=- | DESC=Caseta de madera a 2 aguas - Pequeña
+   → REF=70502 | PADRE=- | DESC=Ratonera Pequeña
+   → REF=70503 | PADRE=- | DESC=Ratonera Grande
+   → REF=70505 | PADRE=- | DESC=Terrero Madera 1 Dpto. Perdices
+   → REF=70506 | PADRE=- | DESC=Terrero Madera 2 Dptos. Perdices
+   → REF=70507 | PADRE=- | DESC=Transportín Madera 2 Dptos. Palomos
+   → REF=70508 | PADRE=- | DESC=Transportín Madera 8 Dptos. Palomos
+   → REF=70509 | PADRE=- | DESC=Bebedero Esquina 2 l. Palomas Azul Opaco
+   → REF=70510 | PADRE=- | DESC=Posa-Pájaros
+   → REF=70512 | PADRE=- | DESC=Puerta Trampa para Palomas
+   → REF=70513 | PADRE=- | DESC=Transportín de madera para gallos - 1 d
+   → REF=70514 | PADRE=- | DESC=Transportín de madera para gallos - 2 d
+   → REF=70515 | PADRE=- | DESC=Nido Exterior Pájaros
+   → REF=70516 | PADRE=- | DESC=Nido Plástico Pájaros Colgar
+   → REF=70517 | PADRE=- | DESC=Nido Pájaros Algodón Ø 8  cm.
+   → REF=70518 | PADRE=- | DESC=Nido Plástico Pájaros
+   → REF=70519 | PADRE=- | DESC=Nido Madera Nº 4
+   → REF=70520 | PADRE=- | DESC=Nido Madera Nº 3
+   → REF=70521 | PADRE=- | DESC=Nido Madera Nº 2
+   → REF=70522 | PADRE=- | DESC=Nido Madera Nº 1
+   → REF=70529 | PADRE=- | DESC=Kit bebedero automático para aves
+   → REF=70532 | PADRE=- | DESC=Comedero Esquina Plástico con Barras pa
+   → REF=70533 | PADRE=- | DESC=Jaula de exposisión con suelo para perr
+   → REF=70534 | PADRE=- | DESC=Jaula de exposisión con suelo para perr
+   → REF=70535 | PADRE=- | DESC=Jaula de exposisión con suelo para perr
+   → REF=70543 | PADRE=- | DESC=Paridera para perros - Mediana
+   → REF=70544 | PADRE=- | DESC=Paridera para perros - Pequeña
+   → REF=70545 | PADRE=- | DESC=Paridera para perros - Grande
+   → REF=70551 | PADRE=- | DESC=Frente de malla de 5x10 cms. con puerta 
+   → REF=70552 | PADRE=- | DESC=Frente de malla de 5x10 cms. con puerta 
+   → REF=70553 | PADRE=- | DESC=Frente de barras de 5 cms. con puerta y 
+   → REF=70554 | PADRE=- | DESC=Frente de barras de 5 cms. con puerta y 
+   → REF=70555 | PADRE=- | DESC=Caseta de plástico para perros Dog-Hous
+   → REF=70558 | PADRE=- | DESC=Bandeja corner para gatos
+   → REF=70561 | PADRE=- | DESC=Comedero/Bebedero 12 l. Palomas
+   → REF=70562 | PADRE=- | DESC=Comedero/Bebedero 8 l. Palomas
+   → REF=70563 | PADRE=- | DESC=Comedero/Bebedero 2 l. Palomas
+   → REF=70564 | PADRE=- | DESC=Bebedero pequeños animales pintado. Ent
+   → REF=70565 | PADRE=- | DESC=Bebedero de aluminio pintado con solapa.
+   → REF=70566 | PADRE=- | DESC=Bebedero de aluminio pintado Acuacán. E
+   → REF=70567 | PADRE=- | DESC=Bebedero de aluminio pintado P-5
+   → REF=70568 | PADRE=- | DESC=Bebedero Grande Caballos Aluminio Pintad
+   → REF=70569 | PADRE=- | DESC=Bebedero Caballos Pintado
+   → REF=70591 | PADRE=- | DESC=Comedero-Tolva 2 Huecos Palomas Translú
+   → REF=70598 | PADRE=- | DESC=Techo de sandwich para boxes de perros -
+   → REF=70599 | PADRE=- | DESC=Techo de sandwich para boxes de perros -
+   → REF=70600 | PADRE=- | DESC=Comedero para caballos de plástico refo
+   → REF=70601 | PADRE=- | DESC=Comedero Pared Caballos
+   → REF=70602 | PADRE=- | DESC=Forrajera Esquina Caballos
+   → REF=70603 | PADRE=- | DESC=Porta-Montura Plegable
+   → REF=70604 | PADRE=- | DESC=Porta-Bridas
+   → REF=70611 | PADRE=- | DESC=Comedero automático para caballos Equim
+   → REF=70612 | PADRE=- | DESC=Forrajera Frontal Caballos
+   → REF=70613 | PADRE=- | DESC=Comedero Esquina Caballos
+   → REF=70615 | PADRE=- | DESC=Comedero automático para caballos Equim
+   → REF=70618 | PADRE=- | DESC=Frente de barras de 5 cms. con puerta - 
+   → REF=70619 | PADRE=- | DESC=Frente de barras de 5 cms. con puerta - 
+   → REF=70620 | PADRE=- | DESC=Lateral de barras de 5 cms. para boxes -
+   → REF=70621 | PADRE=- | DESC=Lateral de barras de 5 cms. para boxes -
+   → REF=70622 | PADRE=- | DESC=Jaula de exposisión con bandeja para pe
+   → REF=70623 | PADRE=- | DESC=Jaula de exposisión con bandeja para pe
+   → REF=70624 | PADRE=- | DESC=Jaula de exposisión con bandeja para pe
+   → REF=70625 | PADRE=- | DESC=Parque Hexagonal - Grande
+   → REF=70626 | PADRE=- | DESC=Parque Hexagonal - Mediano
+   → REF=70627 | PADRE=- | DESC=Bebedero de aluminio Acuacán con depós
+   → REF=70628 | PADRE=- | DESC=Bebedero Perdices lineal/Combi Principio
+   → REF=70629 | PADRE=- | DESC=Bebedero Grande Caballos Aluminio
+   → REF=70630 | PADRE=- | DESC=Bebedero chupete para perros con soporte
+   → REF=70632 | PADRE=- | DESC=Bebedero Perdices lineal/Combi Ampliaci�
+   → REF=70638 | PADRE=- | DESC=Caseta de plástico con puerta para perr
+   → REF=70654 | PADRE=- | DESC=Comedero de plástico para Caballos - Gr
+   → REF=70655 | PADRE=- | DESC=Pelechero 12 Dptos. (4 Pisos)
+   → REF=70660 | PADRE=- | DESC=Arrastrador Plástico con Mango
+   → REF=70666 | PADRE=- | DESC=Bebedero Empujador Aluminio Caballos
+   → REF=70667 | PADRE=- | DESC=Bebedero Empujador Caballos Pintado
+   → REF=70669 | PADRE=- | DESC=Bebedero Hormigón Suelo Perdices
+   → REF=70670 | PADRE=- | DESC=Bebedero Plástico Suelo Perdices
+   → REF=70672 | PADRE=- | DESC=Soporte Plástico Jaula Reclamo Perdices
+   → REF=70674 | PADRE=- | DESC=Pulpitillo Telescópico Redondo
+   → REF=70675 | PADRE=- | DESC=Pulpitillo Telescópico Bastón
+   → REF=70676 | PADRE=- | DESC=Jaula Exposición Palomas 2 Dpt. 1 m.
+   → REF=70678 | PADRE=- | DESC=Bebedero de plástico P-3
+   → REF=70679 | PADRE=- | DESC=Bebedero de plástico P-5
+   → REF=70680 | PADRE=- | DESC=Bebedero de aluminio P-5
+   → REF=70695 | PADRE=- | DESC=Lateral de malla de 5x10 cms. para boxes
+   → REF=70696 | PADRE=- | DESC=Lateral de malla de 5x10 cms.  para boxe
+   → REF=70697 | PADRE=- | DESC=Bebedero Palomos Capilla 2.5 l.
+   → REF=70698 | PADRE=- | DESC=Bebedero Palomos Capilla 1.75 l.
+   → REF=70705 | PADRE=- | DESC=Bebedero de aluminio con solapa
+   → REF=70706 | PADRE=- | DESC=Jaula Perdices 2 Dptos.
+   → REF=70709 | PADRE=- | DESC=Comedero Tolva de chapa galvanizada para
+   → REF=70712 | PADRE=- | DESC=Cesta Batería Pared para Codornices
+   → REF=70713 | PADRE=- | DESC=Bebedero  de plástico Acuacán con dep�
+   → REF=70720 | PADRE=- | DESC=Jaula Terrero 4 Dpt. Sin ruedas
+   → REF=70721 | PADRE=- | DESC=Jaula Terrero 4 Dpt. con Ruedas
+   → REF=70723 | PADRE=- | DESC=Jaula Perdices De Reclamo con soporte y 
+   → REF=70724 | PADRE=- | DESC=Soporte Jaula Reclamo Perdices
+   → REF=70725 | PADRE=- | DESC=Jaula Reclamo Perdices
+   → REF=70727 | PADRE=- | DESC=Bebedero Palomas Capilla 1,5 l.
+   → REF=70728 | PADRE=- | DESC=Transportín para 2 Palomos
+   → REF=70731 | PADRE=- | DESC=Bebedero de botella para perros - 8 l.
+   → REF=70735 | PADRE=- | DESC=Bebedero Caballos
+   → REF=70736 | PADRE=- | DESC=Comedero/ Bebedero lineal
+   → REF=70739 | PADRE=- | DESC=Comedero Palomas 3 Dptos. Translúcido
+   → REF=70797 | PADRE=- | DESC=Comedero Palomas 4 Dptos. Gris Opaco
+   → REF=70802 | PADRE=- | DESC=Bebedero de plástico Acuacán
+   → REF=70809 | PADRE=- | DESC=Comedero Tolva de chapa galvanizada para
+   → REF=70825 | PADRE=- | DESC=Tolva Exterior Aves Pequeña
+   → REF=70840 | PADRE=- | DESC=Tolva Exterior Aves Gran Capacidad
+   → REF=70845 | PADRE=- | DESC=Comedero 1ª Edad - 1,5 kg./ 2 l. rojo
+   → REF=70850 | PADRE=- | DESC=Lateral de barras de 8 cms. para boxes -
+   → REF=70851 | PADRE=- | DESC=Frente de barras de 8 cms. con puerta - 
+   → REF=70853 | PADRE=- | DESC=Techo de chapa lacada para boxes de perr
+   → REF=70854 | PADRE=- | DESC=Comedero Tolva Dogsimatic
+   → REF=70864 | PADRE=- | DESC=Batería Codornices 4 Pisos
+   → REF=70866 | PADRE=- | DESC=Batería Codornices 2 Pisos
+   → REF=70867 | PADRE=- | DESC=Comedero 2 Dptos. Perdices/Palomas
+   → REF=70869 | PADRE=- | DESC=Comedero 1 Dpto. Perdices/Palomas
+   → REF=70873 | PADRE=- | DESC=Jaula Perdices Cría 5 Dptos. Principio
+   → REF=70874 | PADRE=- | DESC=Jaula Perdices Cría 5 Dptos. Ampliació
+   → REF=70883 | PADRE=- | DESC=Comedero/Bebedero Gat-Ering
+   → REF=70887 | PADRE=- | DESC=Jaula Perdices Cria 10 Dptos. Principio
+   → REF=70888 | PADRE=- | DESC=Jaula Perdices Cria 10 Dptos. Ampliació
+   → REF=70898 | PADRE=- | DESC=Comedero-Tolva 3 Huecos Palomas Translú
+   → REF=70901 | PADRE=- | DESC=Comedero 3 Dptos. Perdices/Palomas
+   → REF=70905 | PADRE=- | DESC=Caseta de PVC con perfiles de acero inox
+   → REF=70916 | PADRE=- | DESC=Cama de plástico para perros - Pequeña
+   → REF=70917 | PADRE=- | DESC=Cama de plástico para perros - Mediana
+   → REF=70918 | PADRE=- | DESC=Cama de plástico para perros - Grande
+   → REF=70919 | PADRE=- | DESC=Bebedero de aluminio Acuacán
+   → REF=70921 | PADRE=- | DESC=Caseta de plástico - Pequeña
+   → REF=70922 | PADRE=- | DESC=Caseta de plástico - Mediana
+   → REF=70923 | PADRE=- | DESC=Caseta de plástico - Grande
+   → REF=70930 | PADRE=- | DESC=Techo de chapa lacada para boxes de perr
+   → REF=70931 | PADRE=- | DESC=Comedero de acero inoxidable - Talla XL
+   → REF=70932 | PADRE=- | DESC=Comedero de acero inoxidable - Talla L
+   → REF=70933 | PADRE=- | DESC=Comedero de acero inoxidable - Talla M
+   → REF=70934 | PADRE=- | DESC=Comedero de acero inoxidable - Talla S
+   → REF=70935 | PADRE=- | DESC=Comedero de acero inoxidable - Talla XS
+   → REF=70936 | PADRE=- | DESC=Comedero de acero inoxidable Antidesliza
+   → REF=70937 | PADRE=- | DESC=Comedero de acero inoxidable Antidesliza
+   → REF=70938 | PADRE=- | DESC=Comedero de acero inoxidable Antidesliza
+   → REF=70939 | PADRE=- | DESC=Comedero de acero inoxidable Antidesliza
+   → REF=70940 | PADRE=- | DESC=Comedero de acero inoxidable Antidesliza
+   → REF=70941 | PADRE=- | DESC=Comedero doble con soporte - Talla L
+   → REF=70942 | PADRE=- | DESC=Comedero doble con soporte - Talla M
+   → REF=70943 | PADRE=- | DESC=Comedero doble con soporte - Talla S
+   → REF=70944 | PADRE=- | DESC=Comedero doble con soporte - Talla XS
+   → REF=70945 | PADRE=- | DESC=Comedero doble con soporte regulable - T
+   → REF=70946 | PADRE=- | DESC=Comedero doble con soporte regulable - T
+   → REF=70947 | PADRE=- | DESC=Aseo con puerta para gatos
+   → REF=70948 | PADRE=- | DESC=Puerta para gatos Modelo 715
+   → REF=70961 | PADRE=- | DESC=Comedero con Soporte para Pared Modelo S
+   → REF=70962 | PADRE=- | DESC=Comedero con Soporte para Pared Modelo S
+   → REF=70963 | PADRE=- | DESC=Comedero con Soporte para Pared Modelo D
+   → REF=70964 | PADRE=- | DESC=Comedero con Soporte para Pared Modelo D
+   → REF=70971 | PADRE=- | DESC=Lateral de barras de 8 cms. para boxes -
+   → REF=70972 | PADRE=- | DESC=Frente de barras de 8 cms. con puerta - 
+   → REF=70978 | PADRE=- | DESC=Lateral de chapa para boxes de perros - 
+   → REF=70979 | PADRE=- | DESC=Lateral de chapa para boxes de perros - 
+   → REF=70990 | PADRE=- | DESC=Colchoneta para cama de perro - Pequeña
+   → REF=70991 | PADRE=- | DESC=Colchoneta para cama de perro - Mediana
+   → REF=70992 | PADRE=- | DESC=Colchoneta para cama de perro - Grande
+   → REF=70994 | PADRE=- | DESC=Frente de barras de 8 cms. con puerta y 
+   → REF=70995 | PADRE=- | DESC=Frente de barras de 8 cms. con puerta y 
+   → REF=70998 | PADRE=- | DESC=Frente de malla de 5x10 cms. con puerta 
+   → REF=70999 | PADRE=- | DESC=Frente de malla de 5x10 cms. con puerta 
+   → REF=71026 | PADRE=- | DESC=Bebedero de acero inoxidable Cleansy. En
+   → REF=71028 | PADRE=- | DESC=Bebedero de acero inoxidable Cleansy. En
+   → REF=71032 | PADRE=- | DESC=Soporte para bebedero de perros en fenó
+   → REF=71033 | PADRE=- | DESC=Soporte para bebedero de perros en fenó
+   → REF=71076 | PADRE=- | DESC=Pala Pienso Plástico reciclado 2.5 l.
+   → REF=71080 | PADRE=- | DESC=Bebedero de acero inoxidable Cleansy. En
+   → REF=71112 | PADRE=- | DESC=Bebedero de acero inoxidable Cleansy. En
+   → REF=71113 | PADRE=- | DESC=Bebedero de acero inoxidable Cleansy. En
+   → REF=71114 | PADRE=- | DESC=Comedero Palomos 1 Dp. Interior/Exterior
+   → REF=71115 | PADRE=- | DESC=Bebedero chupete de perros para grifo
+   → REF=71124 | PADRE=- | DESC=Comedero Tolva fenólico para perros - 8
+   → REF=71125 | PADRE=- | DESC=Comedero Tolva fenólico para perros - 1
+   → REF=71126 | PADRE=- | DESC=Válvula Alta Presión Plástico Racor l
+   → REF=71128 | PADRE=- | DESC=Caseta de madera reciclada a 2 aguas - G
+   → REF=71129 | PADRE=- | DESC=Caseta de madera reciclada a 2 aguas - M
+   → REF=71130 | PADRE=- | DESC=Caseta de madera reciclada a 2 aguas - P
+   → REF=71131 | PADRE=- | DESC=Frente de malla 3x10 cms. Eco  con puert
+   → REF=71132 | PADRE=- | DESC=Frente de malla 3x10 cms. Eco  con puert
+   → REF=71133 | PADRE=- | DESC=Frente de malla 3x10 cms. Eco  con puert
+   → REF=71134 | PADRE=- | DESC=Lateral de malla 3x10 cms. Eco - 100x185
+   → REF=71135 | PADRE=- | DESC=Lateral de malla 3x10 cms. Eco - 150x185
+   → REF=71136 | PADRE=- | DESC=Lateral de malla 3x10 cms. Eco - 200x185
+   → REF=71152 | PADRE=- | DESC=Bebedero/Comedero Pets - 1.75 l.
+   → REF=71153 | PADRE=- | DESC=Bebedero/Comedero Pets - 3 l.
+   → REF=71154 | PADRE=- | DESC=Bandeja rectangular con pala para gatos
+   → REF=71155 | PADRE=- | DESC=Comedero de plástico con ganchos - rojo
+   → REF=71156 | PADRE=- | DESC=Comedero de plástico con ganchos - azul
+   → REF=71201 | PADRE=- | DESC=Lateral de sandwich 30 mm. para boxes - 
+   → REF=71202 | PADRE=- | DESC=Lateral de sandwich 30 mm. para boxes - 
+   → REF=71203 | PADRE=- | DESC=Lateral de sandwich 30 mm. mixto para bo
+   → REF=71204 | PADRE=- | DESC=Lateral de sandwich 30mm. mixto para box
+   → REF=71205 | PADRE=- | DESC=Frente de sandwich 30 mm. mixto con puer
+   → REF=71206 | PADRE=- | DESC=Frente de sandwich 30 mm. mixto con puer
+   → REF=71207 | PADRE=- | DESC=Frente de sandwich 30 mm. mixto con puer
+   → REF=71208 | PADRE=- | DESC=Frente de sandwich 30 mm. mixto con puer
+   → REF=71209 | PADRE=- | DESC=Lateral de sandwich 30 mm. para boxes de
+   → REF=71210 | PADRE=- | DESC=Lateral de sandwich 30 mm. para boxes de
+   → REF=71211 | PADRE=- | DESC=Frente de sandwich 30 mm. con puerta par
+   → REF=71212 | PADRE=- | DESC=Frente de sandwich 30 mm. con puerta par
+   → REF=71226 | PADRE=- | DESC=Comedero Poli 1Dpt Perdices/Palomas Azul
+   → REF=71227 | PADRE=- | DESC=Comedero Poli 2Dpt Perdices/Palomas Azul
+   → REF=71238 | PADRE=- | DESC=Comedero Plastico perdices C/8 Bocas Ant
+   → REF=71239 | PADRE=- | DESC=Comedero  Metal Perdices C/8 Bocas Atide
+   → REF=71240 | PADRE=- | DESC=Tolva Exterior Perdices Camuflaje peque�
+   → REF=71241 | PADRE=- | DESC=Tolva Exterior Perdices Camuflaje median
+   → REF=71242 | PADRE=- | DESC=Tolva Exterior Perdices Camuflaje grande
+   → REF=71243 | PADRE=- | DESC=Comedero-Tolva 1H Palomas Azul Transluci
+   → REF=80005 | PADRE=- | DESC=Cubo de acero inoxidable con asa 8,5 l
+   → REF=80006 | PADRE=- | DESC=Cubo de acero inoxidable con asa 5,5 l
+   → REF=80788 | PADRE=- | DESC=Kit 4 Ruedas Batería Palomas
+   → REF=80789 | PADRE=- | DESC=Mesa De Cultivo 146x72cm Pata Media
+   → REF=80790 | PADRE=- | DESC=Mesa De Cultivo 146x72cm Pata Baja
+   → REF=80791 | PADRE=- | DESC=Mesa De Cultivo 72x72cm Pata Media
+   → REF=80792 | PADRE=- | DESC=Mesa De Cultivo 72x72cm Pata Baja
+   → REF=80793 | PADRE=- | DESC=Kit 4 Ruedas Mesa Cultivo
+   → REF=80794 | PADRE=- | DESC=Bandeja Inferior Mesa Cultivo 146cm
+   → REF=80795 | PADRE=- | DESC=Bandeja Inferior Mesa Cultivo 72cm
+   → REF=80796 | PADRE=- | DESC=Kit Invernadero Mesa De Cultivo
+   → REF=80797 | PADRE=- | DESC=Kit 4 Tutores Mesa De Cultivo
+   → REF=80798 | PADRE=- | DESC=Mesa De Cultivo 146x72 cm Pata Alta
+   → REF=80799 | PADRE=- | DESC=Mesa De Cultivo 72x72cm Pata Alta
+   → REF=80801 | PADRE=- | DESC=Metro Ángulo Estantería 40x40x2
+   → REF=80803 | PADRE=- | DESC=Bandeja Estantería 92 x 20 cms.
+   → REF=80804 | PADRE=- | DESC=Bandeja Estantería 92 x 30 cms.
+   → REF=80805 | PADRE=- | DESC=Bandeja Estantería 92 x 40 cms.
+   → REF=80806 | PADRE=- | DESC=Bandeja Estantería 92 x 50 cms.
+   → REF=80807 | PADRE=- | DESC=Bandeja Estantería 92 x 60 cms.
+   → REF=80808 | PADRE=- | DESC=Tornillo Estantería con Tuerca
+   → REF=80809 | PADRE=- | DESC=Escuadra Estantería
+   → REF=80810 | PADRE=- | DESC=Arriostramiento Blanco 100 cms.
+   → REF=80811 | PADRE=- | DESC=Pie De Plástico-40 Gris Ángulo Estante
+   → REF=80816 | PADRE=- | DESC=Cartela 300 mm.
+   → REF=80817 | PADRE=- | DESC=Cartela 200 mm.
+   → REF=80821 | PADRE=- | DESC=Cartela 400 mm.
+   → REF=80822 | PADRE=- | DESC=Columna Estantería 2250 (60x30)
+   → REF=80823 | PADRE=- | DESC=Pie Columna 500 mm.
+   → REF=80824 | PADRE=- | DESC=Pie Columna 400 mm
+   → REF=80825 | PADRE=- | DESC=Pie Columna 300 mm
+   → REF=80826 | PADRE=- | DESC=Bandeja Estantería 1000x200 mm.
+   → REF=80827 | PADRE=- | DESC=Bandeja Estantería 1000x300 mm
+   → REF=80828 | PADRE=- | DESC=Bandeja Estantería 1000x400 mm
+   → REF=80829 | PADRE=- | DESC=Bandeja Estantería 1000x500 mm
+   → REF=80830 | PADRE=- | DESC=Cartela 500 mm
+   → REF=80831 | PADRE=- | DESC=Fondo liso 1000x300 mm
+   → REF=80832 | PADRE=- | DESC=Fondo Perforado 1000x300 mm
+   → REF=80833 | PADRE=- | DESC=Zócalo De 1000 mm
+   → REF=80834 | PADRE=- | DESC=Gancho Estantería 200 mm
+   → REF=80835 | PADRE=- | DESC=Cesto Estantería 1000x480 mm
+   → REF=80836 | PADRE=- | DESC=Separador Cesto 1000x480 mm
+   → REF=90216 | PADRE=- | DESC=Ratonera Multicaptura
+   → REF=90217 | PADRE=- | DESC=Jaula Ratas
+   → REF=90218 | PADRE=- | DESC=Jaula Gatos Plegable 2 Puertas
+   → REF=90219 | PADRE=- | DESC=Jaula Gatos Plegable Mediana
+   → REF=90220 | PADRE=- | DESC=Jaula Gatos Plegable Grande
+   → REF=90221 | PADRE=- | DESC=Protector Anti-Aves
+   → REF=90222 | PADRE=- | DESC=Ratonera 2 Agujeros Pequeña
+   → REF=90224 | PADRE=- | DESC=Ratonera 2 Agujeros Grande
+   → REF=90226 | PADRE=- | DESC=Ratonera Plástico (2 Unid)
+   → REF=90227 | PADRE=- | DESC=Ratonera Plástico
+   → REF=90228 | PADRE=- | DESC=Jaula Captura Palomas 3 Dpts.
+   → REF=90229 | PADRE=- | DESC=Jaula Captura Palomas
+   → REF=90230 | PADRE=- | DESC=Jaula Captura Ratas Pequeña
+   → REF=90231 | PADRE=- | DESC=Jaula Captura conejos Pintada
+   → REF=90232 | PADRE=- | DESC=Jaula Captura Tubo conejos
+   → REF=90233 | PADRE=- | DESC=Jaula Captura Urracas Octogonal Pintada
+   → REF=90235 | PADRE=- | DESC=Jaula Trampa Plegable para Gatos Galvani
+   → REF=90236 | PADRE=- | DESC=Ratera Tabla Madera Grande
+   → REF=90237 | PADRE=- | DESC=Ratera Tabla Madera Pequeña
+   → REF=90240 | PADRE=- | DESC=Pajarera 12 lados Pintada
+   → REF=90241 | PADRE=- | DESC=Pajarera 12 lados Galvanizada
+   → REF=90242 | PADRE=- | DESC=Pajarera 8 lados Pintada
+   → REF=90243 | PADRE=- | DESC=Pajarera 8 lados Galvanizada
+   → REF=90244 | PADRE=- | DESC=Pajarera 12+2 lados Pintada
+   → REF=90245 | PADRE=- | DESC=Pajarera 8+2 lados Pintada
+   → REF=90246 | PADRE=- | DESC=Desplumadora para taladradora
+   → REF=90248 | PADRE=- | DESC=Desplumadora automática- 35 para perdic
+   → REF=90250 | PADRE=- | DESC=Desplumadora automática- 65 para pollos
+   → REF=90251 | PADRE=- | DESC=Jaula Pájaros C-1 Marrón
+   → REF=90252 | PADRE=- | DESC=Jaula Pájaros C-2 Marrón
+   → REF=90254 | PADRE=- | DESC=Rejilla Suelo Jaula Pájaros C-1
+   → REF=90255 | PADRE=- | DESC=Rejilla Suelo Jaula Pájaros C-2
+   → REF=90257 | PADRE=- | DESC=Exterminador De Insectos Mod-6 Plástico
+   → REF=90258 | PADRE=- | DESC=Exterminador De Insectos Mod-16 Aluminio
+   → REF=90259 | PADRE=- | DESC=Exterminador De Insectos Mod-30 Aluminio
+   → REF=90260 | PADRE=- | DESC=Exterminador De Insectos Mod-40 Inoxidab
+   → REF=90261 | PADRE=- | DESC=Jaula Mascotas Nº5
+   → REF=90262 | PADRE=- | DESC=Jaula Mascotas Nº6
+   → REF=90263 | PADRE=- | DESC=Ratonera Multicaptura 2 Dptos.
+   → REF=90271 | PADRE=- | DESC=Desplumadroa automática Prisma-55
+   → REF=90272 | PADRE=- | DESC=Comedero Tolva Plástico Pájaros
+   → REF=90274 | PADRE=- | DESC=Jaula Captura conejos Galvanizada
+   → REF=90275 | PADRE=- | DESC=Tanque de escaldado - 80 l.
+   → REF=90276 | PADRE=- | DESC=Tanque de escaldado - 140 l.
+   → REF=90277 | PADRE=- | DESC=Cesto Gatos Plegable Eco - Galvanizado
+   → REF=90278 | PADRE=- | DESC=Cesto Gatos Plegable Eco Pintado
+   → REF=90281 | PADRE=- | DESC=Paradera Bebedero Mini Pájaros
+   → REF=90490 | PADRE=- | DESC=Malla Alambre Galvanizado 2 x 1.10 m.
+   → REF=90492 | PADRE=- | DESC=Comedero loro Alambre
+   → REF=90493 | PADRE=- | DESC=Comedero Pájaros Oriental
+   → REF=90494 | PADRE=- | DESC=Comedero Pájaros Estrella con Tapa
+   → REF=90495 | PADRE=- | DESC=Comedero Pájaros Canarias
+   → REF=90496 | PADRE=- | DESC=Comedero 3 Huecos Pájaros
+   → REF=90497 | PADRE=- | DESC=Comedero Pájaros Interior con Rastrillo
+   → REF=90498 | PADRE=- | DESC=Comedero Cría Pájaros
+   → REF=90499 | PADRE=- | DESC=Bebedero Pájaros con Bola
+   → REF=90500 | PADRE=- | DESC=Percha 36 cm. Pájaros
+   → REF=90504 | PADRE=- | DESC=Jaula exposición 60x60 cms.
+   → REF=90505 | PADRE=- | DESC=Jaula exposición 95x95 cms.
+   → REF=90512 | PADRE=- | DESC=Jaula 1 Dpto. Pequeños Animales
+   → REF=90513 | PADRE=- | DESC=Jaula 1Dpt.o Peq Animales con Patas
+   → REF=90514 | PADRE=- | DESC=Jaula exposición con puerta frontal 60x
+   → REF=90521 | PADRE=- | DESC=Jaula Ratas 2 Puertas
+   → REF=90550 | PADRE=- | DESC=Columpio Modelo "G"
+   → REF=90554 | PADRE=- | DESC=Percha 15 cm. Pájaros
+   → REF=90555 | PADRE=- | DESC=Percha 21 cm. Pájaros
+   → REF=90556 | PADRE=- | DESC=Palo 13 mm. Pájaros (1 m.)
+   → REF=90561 | PADRE=- | DESC=Bizcochera Pájaros
+   → REF=90562 | PADRE=- | DESC=Bebedero Tubo Nº 1
+   → REF=90563 | PADRE=- | DESC=Bebedero Tubo Nº 2
+   → REF=90565 | PADRE=- | DESC=Bebedero Nº4 con Anilla
+   → REF=90566 | PADRE=- | DESC=Bebedero Tubo Pico-Pato
+   → REF=90567 | PADRE=- | DESC=Comedero Capilla Pájaros
+   → REF=90568 | PADRE=- | DESC=Comedero loro
+   → REF=90569 | PADRE=- | DESC=Comedero lineal 23 cm Pájaros
+   → REF=90579 | PADRE=- | DESC=Soporte Giratorio con Comedero para loro
+   → REF=90581 | PADRE=- | DESC=Bañera Exterior Desmontable
+   → REF=90584 | PADRE=- | DESC=Jaula para pájaros Desmontable Mod.Tene
+   → REF=90585 | PADRE=- | DESC=Jaula para pájaros Desmontable Mod.Ibiz
+   → REF=90586 | PADRE=- | DESC=Jaula para pájaros Desmontable Mod.Mall
+   → REF=90587 | PADRE=- | DESC=Jaula loro Desmontable
+   → REF=90588 | PADRE=- | DESC=Jaula para pájaros Desmontable Mod. Red
+   → REF=90591 | PADRE=- | DESC=Jaula para pájaros Desmontable Mod. Est
+   → REF=90597 | PADRE=- | DESC=Portanido Blanco Plástico
+   → REF=90598 | PADRE=- | DESC=Bañera Transparente Pájaros
+   → REF=90599 | PADRE=- | DESC=Comedero Pájaros Mod Garden
+   → REF=90600 | PADRE=- | DESC=Comedero Giratorio loros 2 Dptos.
+   → REF=90632 | PADRE=- | DESC=Comedero Plástico con Rejilla para jaul
+   → REF=90641 | PADRE=- | DESC=Pajarera Mod.Moncayo 1 Cuerpo
+   → REF=90642 | PADRE=- | DESC=Pajarera Mod.Moncayo Duplex
+   → REF=90643 | PADRE=- | DESC=Pajarera Mod.Mulhacen 1 Cuerpo
+   → REF=90650 | PADRE=- | DESC=Jaula Hamster Nº2
+   → REF=90651 | PADRE=- | DESC=Jaula Hamster Nº3
+   → REF=90652 | PADRE=- | DESC=Jaula Hamster Nº4
+   → REF=90656 | PADRE=- | DESC=Gatera corner
+   → REF=90657 | PADRE=- | DESC=Puerta para gatos Modelo 270
+   → REF=90658 | PADRE=- | DESC=Puerta para perros Modelo 740
+   → REF=90667 | PADRE=- | DESC=Pajarera Mod. Mulhacen Duplex
+   → REF=90668 | PADRE=- | DESC=Jaula Canarios Desmontable 40 cm.
+   → REF=90669 | PADRE=- | DESC=Jaula Canarios Desmontable 90 cm.
+   → REF=90670 | PADRE=- | DESC=Jaula conejos 60 cm.
+   → REF=90674 | PADRE=- | DESC=Jaula Pajarera Desmontable Mod.Granada
+   → REF=90682 | PADRE=- | DESC=Comedero 2 Huecos Cotorras
+   → REF=90683 | PADRE=- | DESC=Comedero 4 Huecos Pájaros
+   → REF=90723 | PADRE=- | DESC=Comedero Chapa Canarios 22cm
+   → REF=90724 | PADRE=- | DESC=Comedero Chapa Canarios 46cm
+   → REF=90725 | PADRE=- | DESC=Comedero Chapa Canarios 53cm
+   → REF=90726 | PADRE=- | DESC=Comedero Chapa Canarios 96cm
+   → REF=90727 | PADRE=- | DESC=Soporte con ruedas para Jaulas Canario d
+   → REF=90728 | PADRE=- | DESC=Soporte con ruedas para Jaulas Canario d
+   → REF=90732 | PADRE=- | DESC=Semillero Pájaros
+   → REF=90733 | PADRE=- | DESC=Bizcochera con Rastrillo Pájaros
+   → REF=90734 | PADRE=- | DESC=Bizcochera Alambre con Rastrillo
+   → REF=90735 | PADRE=- | DESC=Percha 7 cm. Pájaros
+   → REF=90736 | PADRE=- | DESC=Comedero/Bebedero Botella Cristal
+   → REF=90737 | PADRE=- | DESC=Malla Alambre Galvanizada 1 x 0.64 m.-Lu
+   → REF=90738 | PADRE=- | DESC=Malla Alambre Galvanizada 2 x 0.64 m.-Lu
+   → REF=90739 | PADRE=- | DESC=Malla Alambre Galvanizada 1 x 0.75 m.
+   → REF=90740 | PADRE=- | DESC=Malla Alambre Galvanizada 2 x 0.75 m.
+   → REF=90749 | PADRE=- | DESC=Nido Pájaros Yute Ø 9
+   → REF=90756 | PADRE=- | DESC=Porta-Sales
+   → REF=90757 | PADRE=- | DESC=Bebedero Pájaros Boya Mini
+   → REF=90758 | PADRE=- | DESC=Bebedero Pájaros Mini con Botella 0.5 l
+   → REF=90759 | PADRE=- | DESC=Bebedero Pájaros Mini con Botella 2 l.
+   → REF=90761 | PADRE=- | DESC=Nido Plástico con Ganchos Pájaros
+   → REF=90765 | PADRE=- | DESC=Bebedero Pájaros Mini Sin Botella
+   → REF=90775 | PADRE=- | DESC=Comedero Cria Mini Pájaros
+   → REF=90780 | PADRE=- | DESC=Nido Pájaros Fieltro Ø 9
+   → REF=90781 | PADRE=- | DESC=Forro Fieltro Nido Pájaros Ø 10
+   → REF=90782 | PADRE=- | DESC=Forro Yute Nido Pájaros Ø 10
+   → REF=90783 | PADRE=- | DESC=Nido Pájaros Fieltro Ø 8
+   → REF=90784 | PADRE=- | DESC=Portacebos Apertura lateral
+   → REF=90785 | PADRE=- | DESC=Portacebos Apertura Frontal
+   → REF=90786 | PADRE=- | DESC=Portacebos Tunel
+   → REF=90788 | PADRE=- | DESC=Bebedero Pájaros Mini con Botella 0.2 l
+   → REF=90790 | PADRE=- | DESC=Transportín Travel 4
+   → REF=90791 | PADRE=- | DESC=Transportín Travel 5
+   → REF=90792 | PADRE=- | DESC=Transportín Travel 6
+   → REF=90793 | PADRE=- | DESC=Transportín Travel 7
+   → REF=90816 | PADRE=- | DESC=Jaula loro Grande Curva
+   → REF=90817 | PADRE=- | DESC=Jaula loro Grande Recta
+   → REF=90818 | PADRE=- | DESC=Jaula loro Pequeña Curva
+   → REF=90819 | PADRE=- | DESC=Jaula loro Pequeña Recta
+   → REF=90820 | PADRE=- | DESC=Jaulon Canarios Desmontable 60 cm.
+   → REF=90821 | PADRE=- | DESC=Bebedero automático Acuabird para canar
+   → REF=90825 | PADRE=- | DESC=Malla Plástico C-112 - 1x25 m.
+   → REF=90826 | PADRE=- | DESC=Malla PlásticoC-123 - 1x25 m.
+   → REF=90830 | PADRE=- | DESC=Latiguillo Blindado 3/8"
+   → REF=90836 | PADRE=- | DESC=Botella 200 ml. para Bebedero Acuabird
+   → REF=90848 | PADRE=- | DESC=Bebedero Hámster 150 ml
+   → REF=90849 | PADRE=- | DESC=Bebedero conejos enanos 320 ml
+   → REF=90850 | PADRE=- | DESC=Bebedero conejos enanos 600 ml
+   → REF=90851 | PADRE=- | DESC=Bebedero conejos enanos 1100 ml
+   → REF=90852 | PADRE=- | DESC=Comedero Pájaros 2 Agujeros
+   → REF=90853 | PADRE=- | DESC=Comedero Exótico
+   → REF=90854 | PADRE=- | DESC=Transportín GT XS negro/naranja
+   → REF=90855 | PADRE=- | DESC=Transportín GT S negro/verde
+   → REF=90857 | PADRE=- | DESC=Ratonera Estación (x2 Unidades)
+   → REF=90858 | PADRE=- | DESC=Ahuyentador Solar para Roedores (x2 Unid
+   → REF=90859 | PADRE=- | DESC=Espantapájaros Ultrasonido 360º Solar
+   → REF=90860 | PADRE=- | DESC=Caja Trampa Multicaptura Ratones
+   → REF=90863 | PADRE=- | DESC=Trampa de Ratas con Cubo 17L
+   → REF=90864 | PADRE=- | DESC=Trampa de Ratas para Cubo 17L
+   → REF=90866 | PADRE=- | DESC=Tuberia Lisa 16MM Marron
+   → REF=90867 | PADRE=- | DESC=Tuberia C/Goteros a 33CM 16MM Marron
+   → REF=90868 | PADRE=- | DESC=Tuberia microtubo 5x3.3MM Negro
+   → REF=90869 | PADRE=- | DESC=Enlace mixto 16/3/4 Marron
+   → REF=90870 | PADRE=- | DESC=Valvula 16MM Marron
+   → REF=90871 | PADRE=- | DESC=Conexión Codo 90º 16MM Marron
+   → REF=90872 | PADRE=- | DESC=Enlace Recto 16MM Marron
+   → REF=90873 | PADRE=- | DESC=Conexión "T" 16MM Marron
+   → REF=90874 | PADRE=- | DESC=Final linea doble anillo 16MM Marron
+   → REF=90875 | PADRE=- | DESC=Tapon anilla 16MM para gotero Insertado 
+   → REF=90876 | PADRE=- | DESC=Tapon 4MM para taladro gotero negro
+   → REF=90877 | PADRE=- | DESC=Sacabocados simple 3MM verde
+   → REF=90878 | PADRE=- | DESC=Piqueta 70º Microtubo Negro
+   → REF=90879 | PADRE=- | DESC=Estaca sujecion tuberia 16MM marron
+   → REF=90880 | PADRE=- | DESC=Gotero automcompensante 2.2L Negro
+   → REF=90881 | PADRE=- | DESC=Filtro 1" 130 Micron negro
+   → REF=90882 | PADRE=- | DESC=Kit de riego para huerto
+   → REF=90883 | PADRE=- | DESC=Kit de riego para jardín
+   → REF=91500 | PADRE=- | DESC=Pastor Eléctrico Ranger N420 - 230V
+   → REF=91502 | PADRE=- | DESC=Pastor Eléctrico Trapper N15 - 230V
+   → REF=91505 | PADRE=- | DESC=Pastor Eléctrico Scout N2 Palomos - 230
+   → REF=91506 | PADRE=- | DESC=Pastor Eléctrico Solar Farmer AN1000 - 
+   → REF=91507 | PADRE=- | DESC=Pastor Eléctrico Farmer AN 100 - 12/230
+   → REF=91508 | PADRE=- | DESC=Pastor Eléctrico Solar Trapper AS 25 - 
+   → REF=91512 | PADRE=- | DESC=Pastor Eléctrico Trapper AN80 -  12/230
+   → REF=91527 | PADRE=- | DESC=Cinta Farmer T-10 (200 m.)
+   → REF=91528 | PADRE=- | DESC=Cinta Farmer T-20 (200 m.)
+   → REF=91529 | PADRE=- | DESC=Cinta Farmer T-40 (200 m.)
+   → REF=91530 | PADRE=- | DESC=Cinta Turbomax T-12 (200 m.)
+   → REF=91531 | PADRE=- | DESC=Cinta Turbomax T-20 (200 m.)
+   → REF=91532 | PADRE=- | DESC=Cinta Turbomax T-40 (200 m.)
+   → REF=91533 | PADRE=- | DESC=Hilo Farmer W6 (250 m.)
+   → REF=91534 | PADRE=- | DESC=Hilo Turbomax W6 (200 m.)
+   → REF=91535 | PADRE=- | DESC=Cordón Farmer R6 (200 m.)
+   → REF=91536 | PADRE=- | DESC=Cordón Turbomax R6 (200 m.)
+   → REF=91567 | PADRE=- | DESC=Malla Eléctrica para conejos 0.50 x 50 
+   → REF=91568 | PADRE=- | DESC=Malla Eléctrica para Aves 1.05 x 50 m.
+   → REF=91569 | PADRE=- | DESC=Malla Eléctrica para Ovejas 0.90 x 50 m
+   → REF=91570 | PADRE=- | DESC=Malla Eléctrica para Cabras 1.05 x 50 m
+   → REF=91571 | PADRE=- | DESC=Poste Plástico 0.75 m. (x10 uds.)
+   → REF=91572 | PADRE=- | DESC=Poste Plástico 1.04 m. (x10 uds.)
+   → REF=91573 | PADRE=- | DESC=Poste Plástico 1.38 m. (x10 uds.)
+   → REF=91576 | PADRE=- | DESC=Batería Recargable 12V / 7 A/H
+   → REF=91577 | PADRE=- | DESC=Batería Recargable 12V / 12 A/H
+   → REF=91578 | PADRE=- | DESC=Batería Recargable  12V / 17 A/H
+   → REF=91579 | PADRE=- | DESC=Pila Alcalina 9V / 55 Ah
+   → REF=91580 | PADRE=- | DESC=Pila Alcalina 9V/120 Ah
+   → REF=91581 | PADRE=- | DESC=Pila Alcalina 9V/170 Ah
+   → REF=92105 | PADRE=- | DESC=Bebedero para Pequeños Animales
+   → REF=31078 | PADRE=- | DESC=Corral móvil 4.4x2.5x1.80+ Kit desplaza
+   → REF=31213 | PADRE=- | DESC=Gallinero Movil 60x50 Red Roof Talla S
+   → REF=31214 | PADRE=- | DESC=Gallinero Fijo 60x50 Red Roof Talla S
+   → REF=31215 | PADRE=- | DESC=Gallinero Movil 60x75 Red Roof Talla M
+   → REF=31216 | PADRE=- | DESC=Gallinero Fijo 60x75 Red Roof Talla M
+   → REF=31217 | PADRE=- | DESC=Gallinero Movil 75x120 Red Roof Talla L
+   → REF=31218 | PADRE=- | DESC=Gallinero Fijo 75x120 Red Roof Talla L
+   → REF=90489 | PADRE=- | DESC=Desplumadora pequeña para aves
+   → REF=70605 | PADRE=- | DESC=Recogedor Estiércol con Rastrillo
+### Grupo simples: 168 elementos ###
+   → REF=10222 | PADRE=- | DESC=Cilindro de machos Mod- 78
+   → REF=10224 | PADRE=- | DESC=Suelo de Chapa para Jaula de conejos Mac
+   → REF=10238 | PADRE=- | DESC=Bandeja colectora para cilindro de macho
+   → REF=10240 | PADRE=- | DESC=Forrajera para cilindro de machos
+   → REF=10269 | PADRE=- | DESC=Jaula metálica para transporte de conej
+   → REF=10307 | PADRE=- | DESC=Jaula de plástico para transporte - 3 p
+   → REF=10313 | PADRE=- | DESC=Goma Sebs para bebedero de boya mixto
+   → REF=10317 | PADRE=- | DESC=Tapón inferior bebedero mixto conejos
+   → REF=10318 | PADRE=- | DESC=Flotador gris para Bebedero mixto de con
+   → REF=10319 | PADRE=- | DESC=Tapa Superior Bebedero Boya Mixto
+   → REF=10463 | PADRE=- | DESC=Taza bebedero Logis
+   → REF=10471 | PADRE=- | DESC=Adaptador de chapa para bebedero Logis/M
+   → REF=10799 | PADRE=- | DESC=Pata 1 Piso Modelo Penta
+   → REF=10938 | PADRE=- | DESC=Tapa Plástico Nido-Cuni
+   → REF=10939 | PADRE=- | DESC=Cubeta Nido-Cuni
+   → REF=30010 | PADRE=- | DESC=Sistema expulsión aves Colectavi Centra
+   → REF=30011 | PADRE=- | DESC=Sistema expulsión aves Colectavi Centra
+   → REF=30048 | PADRE=- | DESC=Bebedero Automatico 2MT Patos
+   → REF=30056 | PADRE=- | DESC=Corona para taladro - 100 mm.
+   → REF=30076 | PADRE=- | DESC=Puerta plástico roja ponedero Platinum 
+   → REF=30077 | PADRE=- | DESC=Puerta plástico reciclado ponedero Plat
+   → REF=30107 | PADRE=- | DESC=Kit de enganche con ruedas para corral m
+   → REF=30150 | PADRE=- | DESC=Nido-Avi
+   → REF=30151 | PADRE=- | DESC=Slat de plástico para Aves 120x60 cm- l
+   → REF=30152 | PADRE=- | DESC=Kit de enganche con ruedas para corral m
+   → REF=30159 | PADRE=- | DESC=Caballete para corral móvil 30/ 60 y 90
+   → REF=30163 | PADRE=- | DESC=Kit de enganche con ruedas para corral m
+   → REF=30231 | PADRE=- | DESC=Ovoscopio LED
+   → REF=30311 | PADRE=- | DESC=Anillo salva-polluelos
+   → REF=30372 | PADRE=- | DESC=Protector para Bebedero Copavi
+   → REF=30682 | PADRE=- | DESC=Bebedero Copavi con Depósito 30 l.
+   → REF=30713 | PADRE=- | DESC=Kit de patas pata tolvas metálicas 9/ 1
+   → REF=30714 | PADRE=- | DESC=Gafas anti-picaje - 25 uds.
+   → REF=30715 | PADRE=- | DESC=Huevos de plástico - Gallinas
+   → REF=30732 | PADRE=- | DESC=Pata de 1 piso para batería de ponedora
+   → REF=30733 | PADRE=- | DESC=Pata trasera de 2 pisos para batería de
+   → REF=30805 | PADRE=- | DESC=M2 alfombrilla polietileno para ponedero
+   → REF=30813 | PADRE=- | DESC=Tapón Inferior Bebedero Sifón
+   → REF=30831 | PADRE=- | DESC=Anillo protector para bebedero
+   → REF=30832 | PADRE=- | DESC=Cubeta para ponedero
+   → REF=30833 | PADRE=- | DESC=Anillo inferior para tolva 14 l.
+   → REF=30842 | PADRE=- | DESC=Respaldo ponedero Colectavi
+   → REF=30843 | PADRE=- | DESC=Pata ponedero Colectavi
+   → REF=30844 | PADRE=- | DESC=Alfombrilla ponedero Colectavi
+   → REF=30848 | PADRE=- | DESC=Aseladeros nocturnos para ponedero Colec
+   → REF=30872 | PADRE=- | DESC=Trípode para comederos y bebederos de a
+   → REF=30913 | PADRE=- | DESC=Respaldo de chapa para ponedero Platinum
+   → REF=30914 | PADRE=- | DESC=Respaldo de chapa para ponedero Platinum
+   → REF=30915 | PADRE=- | DESC=Respaldo de chapa para ponedero Platinum
+   → REF=30917 | PADRE=- | DESC=Respaldo de chapa para ponedero Platinum
+   → REF=30924 | PADRE=- | DESC=Cubeta con tapa para ponedero Platinum/C
+   → REF=30926 | PADRE=- | DESC=Cubeta para nido Platinum/Confort
+   → REF=30927 | PADRE=- | DESC=Tapa para cubeta con tapa para ponedero 
+   → REF=30928 | PADRE=- | DESC=Cuerpo para ponedero/nido interior Confo
+   → REF=30929 | PADRE=- | DESC=Cuerpo para ponedero exterior Confort
+   → REF=30930 | PADRE=- | DESC=Kit de patas para ponedero Platinum - 1 
+   → REF=30931 | PADRE=- | DESC=Kit de patas para ponedero Platinum - 2 
+   → REF=30940 | PADRE=- | DESC=Kit de patas para ponedero Platinum - 2 
+   → REF=30958 | PADRE=- | DESC=Cuerpo para ponedero exterior de plásti
+   → REF=30959 | PADRE=- | DESC=Tapa para cubeta de ponedero de plástic
+   → REF=30960 | PADRE=- | DESC=Cuerpo para ponedero/nido interior de pl
+   → REF=30967 | PADRE=- | DESC=Mi primer gallinero
+   → REF=30968 | PADRE=- | DESC=Kit de desplazamiento para gallinero mó
+   → REF=30976 | PADRE=- | DESC=Alfombra polietileno para ponedero Plati
+   → REF=31038 | PADRE=- | DESC=Tapa superior para tolva Eco
+   → REF=35005 | PADRE=- | DESC=Azufradora M-78
+   → REF=35065 | PADRE=- | DESC=Protector Chapa Tubular de tubo flexible
+   → REF=35068 | PADRE=- | DESC=Protector Chapa con Palomilla
+   → REF=50632 | PADRE=- | DESC=Tetina para Terneros
+   → REF=50636 | PADRE=- | DESC=Tetina para Corderos
+   → REF=50642 | PADRE=- | DESC=Recogedor Galvanizado con Palo
+   → REF=70014 | PADRE=- | DESC=Accesorios Sujección Bebedero/Comedero 
+   → REF=70170 | PADRE=- | DESC=Dispensador 2 Salidas Equimatic
+   → REF=70218 | PADRE=- | DESC=Comedero Campo Plástico 40 l.
+   → REF=70225 | PADRE=- | DESC=Bebedero P-3 Plastico C/Deposito 8 l.
+   → REF=70240 | PADRE=- | DESC=Cargador Equimaticon Dogsimatic
+   → REF=70303 | PADRE=- | DESC=Soporte de pared para bebedero de hormig
+   → REF=70309 | PADRE=- | DESC=Huevos de plástico - Palomas
+   → REF=70340 | PADRE=- | DESC=Programador Montado Dogsimatic-Equimatic
+   → REF=70394 | PADRE=- | DESC=Reducción latón M1/2"-H3/8" con Junta 
+   → REF=70398 | PADRE=- | DESC=Tolva Perdices Selectiva 10 Kg.
+   → REF=70452 | PADRE=- | DESC=Soporte para bebedero basculante C-50
+   → REF=70511 | PADRE=- | DESC=Cama Esquina Hurones
+   → REF=70528 | PADRE=- | DESC=Tapa superior para tolva 14 l.
+   → REF=70542 | PADRE=- | DESC=Transportín Hurones 3 Dptos.
+   → REF=70559 | PADRE=- | DESC=Protector para tolva de 14 l.
+   → REF=70560 | PADRE=- | DESC=Divisor Comedero/Bebedero 2 l. Palomas
+   → REF=70634 | PADRE=- | DESC=Suplemento 87 l.Tolva Equimatic
+   → REF=70703 | PADRE=- | DESC=Bandeja Colectora Codornices
+   → REF=70729 | PADRE=- | DESC=Jaula Exposición 2 Dptos. con Bandeja
+   → REF=70737 | PADRE=- | DESC=Estantería Expositor Jaula 2 Departamen
+   → REF=70752 | PADRE=- | DESC=Jaula Plástico Transporte Perdices
+   → REF=70756 | PADRE=- | DESC=Comedero Jaula Codornices
+   → REF=70757 | PADRE=- | DESC=Pata 1 Piso Batería Codornices
+   → REF=70758 | PADRE=- | DESC=Pata 2 Pisos Batería Codornices
+   → REF=70763 | PADRE=- | DESC=Tolvilla Perdices con Tapa
+   → REF=70819 | PADRE=- | DESC=Funda para Jaula de reclamo de perdices
+   → REF=70826 | PADRE=- | DESC=Mt2 Malla Parque De Vuelo
+   → REF=70830 | PADRE=- | DESC=Criba Pequeña para Aceitunas
+   → REF=70857 | PADRE=- | DESC=Batería Tolva Dogsimatic
+   → REF=71150 | PADRE=- | DESC=Alfombrilla de plástico para comedero y
+   → REF=71157 | PADRE=- | DESC=Asa ALambre Comedero Campo Plástico 40 
+   → REF=80227 | PADRE=- | DESC=Papelera Pipican pintada con dspensador
+   → REF=80987 | PADRE=- | DESC=Rollo de 500 uds. de bolsas para perros
+   → REF=81173 | PADRE=- | DESC=Balancín Serie Agility
+   → REF=81174 | PADRE=- | DESC=Mesa Serie Agility
+   → REF=81176 | PADRE=- | DESC=Pasarela Serie Agility
+   → REF=81177 | PADRE=- | DESC=Salto de aro Serie Agility
+   → REF=81178 | PADRE=- | DESC=Pórtico Serie Agility
+   → REF=81179 | PADRE=- | DESC=Salto de muro Serie Agility
+   → REF=81180 | PADRE=- | DESC=Salto de valla Serie Agility
+   → REF=81181 | PADRE=- | DESC=Slalom Serie Agility
+   → REF=81182 | PADRE=- | DESC=Tunel Serie Agility
+   → REF=81183 | PADRE=- | DESC=Salto de longitud Serie Agility
+   → REF=81267 | PADRE=- | DESC=Empalizada Serie Agility
+   → REF=90253 | PADRE=- | DESC=Casillero Jaula Pájaros Marrón
+   → REF=90256 | PADRE=- | DESC=Semillero Jaula Pájaros Marrón
+   → REF=90267 | PADRE=- | DESC=Bebedero Vídrio Jaula Pájaros
+   → REF=90273 | PADRE=- | DESC=Pinza Sujec Universal Jaula Pájaros(25U
+   → REF=90487 | PADRE=- | DESC=Embudo de sacrificio para aves
+   → REF=90488 | PADRE=- | DESC=Molino para Grano con Depósito 55 l.
+   → REF=90573 | PADRE=- | DESC=Tortuguera con Palmera
+   → REF=90575 | PADRE=- | DESC=Noria Hamster
+   → REF=90633 | PADRE=- | DESC=Enganche Interior para Comedero
+   → REF=90647 | PADRE=- | DESC=Jaula para Reptiles
+   → REF=90659 | PADRE=- | DESC=Separador para coche con tubos
+   → REF=90760 | PADRE=- | DESC=Huevos de plástico - Pájaros
+   → REF=90789 | PADRE=- | DESC=Transportín Car-80
+   → REF=90794 | PADRE=- | DESC=Kit de ruedas para transportín Travel 4
+   → REF=90865 | PADRE=- | DESC=Cubo de plastico 17L C/Asa
+   → REF=91510 | PADRE=- | DESC=Pastor Eléctrico Trapper B12 - 9/12V
+   → REF=91517 | PADRE=- | DESC=Collar anti-ladrido Petipop
+   → REF=91519 | PADRE=- | DESC=Collar de adiestramiento canino Petipop
+   → REF=91520 | PADRE=- | DESC=Kit Solar 2 W Ranger N420
+   → REF=91521 | PADRE=- | DESC=Comprobador Tester Plus
+   → REF=91523 | PADRE=- | DESC=Interruptor para Cercado
+   → REF=91524 | PADRE=- | DESC=Señal De Aviso 2 Caras (x4)
+   → REF=91525 | PADRE=- | DESC=Protección contra Rayos
+   → REF=91526 | PADRE=- | DESC=Pica Toma De Tierra 1 Metro
+   → REF=91537 | PADRE=- | DESC=Kit De conexión para Vallados
+   → REF=91538 | PADRE=- | DESC=Conector Eléctrico para Cinta
+   → REF=91539 | PADRE=- | DESC=Conector Eléctrico para Cordón
+   → REF=91540 | PADRE=- | DESC=Empalme Cinta 10/20 (x10 uds.)
+   → REF=91541 | PADRE=- | DESC=Empalme Cinta 40 (x5 uds.)
+   → REF=91542 | PADRE=- | DESC=Empalme Cordón (x10 uds.)
+   → REF=91543 | PADRE=- | DESC=Empalme Hilo (x5 uds.)
+   → REF=91544 | PADRE=- | DESC=Tensor Hilo/Cordón (x2 uds.)
+   → REF=91545 | PADRE=- | DESC=Cable conexión Pica Tierra (10 m.)
+   → REF=91546 | PADRE=- | DESC=Cable conexión Pica Tierra (25 m.)
+   → REF=91547 | PADRE=- | DESC=Cable conexión entre líneas (x2 uds.)
+   → REF=91549 | PADRE=- | DESC=Aislador Farmer IS-S Ø5 mm (x25 uds.)
+   → REF=91550 | PADRE=- | DESC=Aislador Ranger Ø6 mm (x25 uds.)
+   → REF=91551 | PADRE=- | DESC=Aislador para Cordón IP-15 (x10 Uds.)
+   → REF=91552 | PADRE=- | DESC=Aislador Cinta (x25 Uds.)
+   → REF=91553 | PADRE=- | DESC=Aislador Rosca Métrica M6 x 30 (x25 uds
+   → REF=91554 | PADRE=- | DESC=Aislador Economy Cordón (x10 uds.)
+   → REF=91555 | PADRE=- | DESC=Aislador Ranger I-40 Fix (x20 uds.)
+   → REF=91556 | PADRE=- | DESC=Aislador Ranger IDS 6 x 200 (x10 uds.)
+   → REF=91557 | PADRE=- | DESC=Aislador Farmer PND (x50 uds.)
+   → REF=91558 | PADRE=- | DESC=Adaptador Monta-Aisladores
+   → REF=91559 | PADRE=- | DESC=Empuñadura Farmer G
+   → REF=91562 | PADRE=- | DESC=Kit Empuñadura con Muelle
+   → REF=91563 | PADRE=- | DESC=Aislador Puerta 6 mm (x10 uds.)
+   → REF=91564 | PADRE=- | DESC=Aislador Puerta M-6 x 30 (x5 uds.)
+   → REF=91565 | PADRE=- | DESC=Aislador Puerta 3 líneas (x2 uds.)
+   → REF=91566 | PADRE=- | DESC=Enrrollador Super Roller 500
+   → REF=91582 | PADRE=- | DESC=Cargador Batería
+   → REF=91583 | PADRE=- | DESC=Comprobador Farmer
+### Grupo bodegones: 4 elementos ###
+   → REF=94061 | PADRE=- | DESC=Platos comedero de melamina
+   → REF=94074 | PADRE=- | DESC=Suelos para jaula de conejos
+   → REF=94080 | PADRE=- | DESC=Casetas de madera conejos
+   → REF=94093 | PADRE=- | DESC=Alfombrilla para nido de plástico de pa
+### Grupo _atributos_amarillos: 5 elementos ###
+   → REF=(sin ref) | PADRE=- | DESC=
+   → REF=(sin ref) | PADRE=- | DESC=
+   → REF=(sin ref) | PADRE=- | DESC=
+   → REF=(sin ref) | PADRE=- | DESC=
+   → REF=(sin ref) | PADRE=- | DESC=
+### Grupo _atributos_verdes: 6 elementos ###
+   → REF=(sin ref) | PADRE=- | DESC=
+   → REF=(sin ref) | PADRE=- | DESC=
+   → REF=(sin ref) | PADRE=- | DESC=
+   → REF=(sin ref) | PADRE=- | DESC=
+   → REF=(sin ref) | PADRE=- | DESC=
+   → REF=(sin ref) | PADRE=- | DESC=
